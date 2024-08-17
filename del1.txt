@@ -1,0 +1,65 @@
+for cros unsupported protos schemes
+------------------------------------------------
+    else {
+        var d = JSON.parse(`
+        [
+            {
+                "name": "Chrome",
+                "imgLink": "https://www.google.com/chrome/static/images/chrome-logo.svg",
+                "dLink":"https:/\/dl.google.com/tag/s/appguid%3D%7B8A69D345-D564-463C-AFF1-A69D9E530F96%7D%26iid%3D%7B0AB67220-C248-7242-BB3B-4706C8EA2194%7D%26lang%3Den%26browser%3D4%26usagestats%3D1%26appname%3DGoogle%2520Chrome%26needsadmin%3Dprefers%26ap%3Dx64-stable-statsdef_1%26installdataindex%3Dempty/update2/installers/ChromeSetup.exe"
+            },
+            {
+                "name": "Zoom",
+                "imgLink": "https://cdn.worldvectorlogo.com/logos/zoom-app.svg",
+                "dLink":"https:/\/cdn.zoom.us/prod/5.17.11.34827/x64/ZoomInstallerFull.exe"
+            },
+            {
+                "name": "Opera",
+                "imgLink": "https://cdn.worldvectorlogo.com/logos/opera-2.svg",
+                "dLink":"https:/\/net.geo.opera.com/opera/stable/windows"
+            },
+            {
+                "name": "Firefox",
+                "imgLink": "https://cdn.worldvectorlogo.com/logos/firefox-6.svg",
+                "dLink":"https:/\/download.mozilla.org/?product=firefox-stub&os=win"
+            },
+            {
+                "name": "Discord",
+                "imgLink": "https://cdn.worldvectorlogo.com/logos/discord-6.svg",
+                "dLink":"https:/\/discord.com/api/downloads/distributions/app/installers/latest?channel=stable&platform=win&arch=x86"
+            },
+            {
+                "name": "Whatsapp",
+                "imgLink": "https://cdn.worldvectorlogo.com/logos/whatsapp-8.svg",
+                "dLink":"https:/\/get.microsoft.com/installer/download/9NKSQGP7F2NH?cid=sideload_experiment_test"
+            },
+            {
+                "name": "Messenger",
+                "imgLink": "https://cdn.worldvectorlogo.com/logos/facebook-messenger-3.svg",
+                "dLink":"https:/\/scontent.fdac160-1.fna.fbcdn.net/v/t39.2270-6/10000000_72914790344951781_3423520104486843270_n.exe/Messenger.208.0.0.9.229.exe?_nc_cat=105&ccb=1-7&_nc_sid=e3bcee&_nc_ohc=jvoTAYQbyhgAX_xJ9nS&_nc_ht=scontent.fdac160-1.fna&oh=00_AfBi1BXG2BeXCiy7uAP_z4GJYc5dKhcY88tkRxZ39c6Gzw&oe=661314C3&dl=1"
+            },
+            {
+                "name": "Logitech G Hub",
+                "imgLink": "https://static.macupdate.com/products/62352/l/logitech-g-hub-logo.png?v=1671137097",
+                "dLink":"https:/\/download01.logi.com/web/ftp/pub/techsupport/gaming/lghub_installer.exe"
+            },
+            {
+                "name": "MSI Center",
+                "imgLink": "https://store-images.s-microsoft.com/image/apps.62389.14391694625478041.213206df-c633-4b18-bfff-e042e6ff28f5.1157c0ce-f9bc-46ee-82f9-bda4ce500c69",
+                "dLink":"https:/\/download.msi.com/uti_exe/desktop/MSI-Center.zip"
+            }
+        ]
+        `);
+        d.forEach(data => {
+            document.querySelector("#content").innerHTML +=
+                `
+                <div>
+                    <div>
+                        <img src="${data.imgLink}" alt="__${String(data.name).toUpperCase().replace(/ /g, '-')}__">
+                        ${data.name}
+                    </div>
+                    <div onclick="window.open('${data.dLink}', '_self')">Download</div>
+                </div>
+                `;
+        });
+    }

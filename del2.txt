@@ -1,0 +1,33 @@
+<gampta contenteditable spellcheck="false">
+  <div>26 May, 2024</div>
+  <div>16/B, Modhubag, Mogbazar, Dhaka-1217</div>
+  <div><br></div>
+  <div>Dear Friend,</div>
+  <div>Hope you're doing well by the grace of Almighty Allah.</div>
+</gampta>
+☰
+div {
+    background: linear-gradient(to top left, #003300 0%, #000066 100%);
+}
+
+The HTML &lt;header&gt; element contains introductory content, such as navigational aids and introductory
+elements. It may include:
+<ol>
+    <li>Heading elements</li>
+    <li>A logo</li>
+    <li>A search form</li>
+    <li>An author name</li>
+    <li>Website branding</li>
+    <li>Navigation elements</li>
+</ol>
+The &lt;header&gt; element identifies content that comes before the primary content of a web page. It often
+contains content that is duplicated across all or most pages of a website.
+
+
+        <div>
+            <div class="bgClr-lightgreen">
+                <img src="https://www.google.com/chrome/static/images/chrome-logo.svg" alt="__CHROME-LOGO__">
+                Chrome
+            </div>
+            <div onclick="window.open('https:/\/dl.google.com/tag/s/appguid%3D%7B8A69D345-D564-463C-AFF1-A69D9E530F96%7D%26iid%3D%7B0AB67220-C248-7242-BB3B-4706C8EA2194%7D%26lang%3Den%26browser%3D4%26usagestats%3D1%26appname%3DGoogle%2520Chrome%26needsadmin%3Dprefers%26ap%3Dx64-stable-statsdef_1%26installdataindex%3Dempty/update2/installers/ChromeSetup.exe', '_self')">Download</div>
+        </div>

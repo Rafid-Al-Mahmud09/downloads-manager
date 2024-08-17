@@ -1,0 +1,461 @@
+[
+    {
+        "name": "360 Total Sequrity",
+        "imgLink": "https://www.fileeagle.com/data/2015/09/360-Total-Security.png",
+        "dLink": "https://www.360totalsecurity.com/en/download-free-antivirus/360-total-security/",
+        "dLink1": "https://www.360totalsecurity.com/en/download-free-antivirus/360-total-security/?offline=1"
+    },
+    {
+        "name": "Acrobat Reader DC",
+        "webpage": "https://apps.microsoft.com/detail/xpdp273c0xhqh2?hl=en-US&gl=US",
+        "imgLink": "https://upload.wikimedia.org/wikipedia/commons/4/42/Adobe_Acrobat_DC_logo_2020.svg",
+        "dLink": "ms-windows-store://pdp?hl=en-us&gl=us&productid=xpdp273c0xhqh2&referrer=storeforweb&source=https%3A%2F%2Fwww.google.com%2F&mode=mini&pos=0%2C0%2C1920%2C1032"
+    },
+    {
+        "name": "Alexa",
+        "imgLink": "https://scontent.fdac155-1.fna.fbcdn.net/v/t39.30808-6/308761627_426000996331074_2507741498925351291_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_ohc=gb_cu1jcJqcQ7kNvgFa88A2&_nc_ht=scontent.fdac155-1.fna&cb_e2o_trans=q&oh=00_AYD61YnnfM-u6XyEEAJTpWqBhllvJocEvkhf2s5ezz4o7w&oe=667F0DD5",
+        "imgLink1": "https://cdn-www.bluestacks.com/bs-images/gametiles_com.amazon.dee_.app_19-1.jpg",
+        "dLink": ""
+    },
+    {
+        "name": "AnyDesk",
+        "imgLink": "https://odvme.com/uploads/posts/2021-11/anydesk.webp",
+        "dLink": ""
+    },
+    {
+        "name": "ARMOURY CRATE (Asus)",
+        "imgLink": "",
+        "dLink": "https://dlcdnets.asus.com/pub/ASUS/mb/14Utilities/ArmouryCrateInstallTool.zip?model=Armoury%20Crate"
+    },
+    {
+        "name": "Asphalt 8: Airborne",
+        "imgLink": "https://static.wikia.nocookie.net/asphalt/images/f/f8/A8_v4.0_icon.png/revision/latest/scale-to-width-down/2147000000?cb=20181214173439",
+        "imgLink1": "https://odvme.com/uploads/posts/2024-03/4729c68206cffb0c83a326ab64ca2bb4.png",
+        "dLink": "ms-windows-store://pdp?hl=en-us&gl=us&referrer=storeforweb&source=https%3A%2F%2Fwww.google.com%2F&productid=9wzdncrfj26j&ocid=storeweb-pdp-open-cta"
+    },
+    {
+        "name": "Asphalt 9: Legends",
+        "imgLink": "./images/Asphalt 9 Legends.png",
+        "imgLink1": "https://static.wikia.nocookie.net/asphalt/images/e/ef/A9_v1.5_icon.png/revision/latest/scale-to-width-down/2000?cb=20190410200039",
+        "dLink": ""
+    },
+    {
+        "name": "ASRRGBLED",
+        "imgLink": "",
+        "dLink": ""
+    },
+    {
+        "name": "Aura Creator (ARMOURY CRATE, Asus)",
+        "imgLink": "https://store-images.s-microsoft.com/image/apps.39998.13834768597459372.8597015b-bc22-45e8-9b2c-cb999600a78a.8a3e2840-8692-4a98-938e-355284058f33",
+        "dLink": "https://static.wikia.nocookie.net/logopedia/images/4/4f/WinRAR_Logo_2018.png/revision/latest?cb=20180730011613"
+    },
+    {
+        "name": "Aura Sync (Aura Creator, ARMOURY CRATE, Asus)",
+        "imgLink": "https://www.asus.com/campaign/aura/us/SDK_ready/img/sdk/Aura-Ready-logo.png",
+        "dLink": "https://dlcdnets.asus.com/pub/ASUS/mb/14Utilities/ArmouryCrateInstallTool.zip"
+    },
+    {
+        "name": "Avast Cleanup Premium",
+        "webpage": "https://support.avast.com/en-us/article/install-cleanup/#pc",
+        "webpage1": "https://www.avast.com/download-thank-you.php?product=CLP-01#pc",
+        "webpage2": "https://apps.microsoft.com/detail/xp9kn6zfrx08wd?hl=en-US&gl=US",
+        "imgLink": "https://images-eds-ssl.xboxlive.com/image?url=4rt9.lXDC4H_93laV1_eHHFT949fUipzkiFOBH3fAiZZUCdYojwUyX2aTonS1aIwMrx6NUIsHfUHSLzjGJFxxo4G1.M3Yg22xI6uSjaKPeIFuJogrEBI0FsVpRxIpcPCYISxlgi9AqCkQYFwEV5OR3BRSWMb4NH0siZQwcv_8M4-&format=source&h=210",
+        "dLink": "https://bits.avcdn.net/productfamily_CLEANUP/insttype_PRO/platform_WIN/installertype_ONLINE/build_RELEASE/trialid_mmm_clp_ppc_030_001_m/cookie_mmm_clp_003_999_a8h_m?ref=clid_1855945997.1723886248--seid_1723886248--senu_1&alt=en-ww",
+        "dLink1": "https://www.avast.com/download-thank-you.php?product=CLP-01&direct=1#pc",
+        "dLink2": "ms-windows-store://pdp?rtc=1&hl=en-bd&gl=bd&productid=xp9kn6zfrx08wd&referrer=storeforweb&mode=mini&pos=0%2C0%2C1920%2C1032"
+    },
+    {
+        "name": "Avast Free Antivirus",
+        "webpage": "https://www.avast.com/download-thank-you.php?product=FAV-PPC&locale=en-ww&direct=1",
+        "webpage1": "https://apps.microsoft.com/detail/xpdnzjfncr1b07?hl=en-US&gl=US",
+        "imgLink": "https://static3.avast.com/10003862/web/i/v3/components/avast-logos/avast-logo-inverse.svg",
+        "dLink": "https://www.avast.com/download-thank-you.php?product=FAV-PPC&locale=en-ww&direct=1",
+        "dLink1": "ms-windows-store://pdp?hl=en-us&gl=us&productid=xpdnzjfncr1b07&referrer=storeforweb&source=https%3A%2F%2Fwww.google.com%2F&mode=mini&pos=0%2C0%2C1920%2C1032"
+    },
+    {
+        "name": "Avro Keyboard (Portable Edition)",
+        "imgLink": "./images/avro_keyboard.svg",
+        "dLink": "https://www.omicronlab.com/download/portable_avrokeyboard_5.6.0.exe"
+    },
+    {
+        "name": "Avro Keyboard (Standard Edition)",
+        "imgLink": "https://www.omicronlab.com/favicon.ico",
+        "dLink": "https://www.omicronlab.com/download/setup_avrokeyboard_5.6.0.exe"
+    },
+    {
+        "name": "Camo Studio",
+        "imgLink": "https://f.reincubate.com/logos/camo.svg",
+        "dLink": "https://releases.reincubate.com/camo-windows-latest.msi?_gl=1*172koo3*_gcl_au*MTM3Nzg0NzY0My4xNzIzNjUzNTAz*_ga*MTAxMzgxNjIwOS4xNzIzNjUzNTAz*_ga_WZ4DCKE2NC*MTcyMzg4MTYzMS4yLjEuMTcyMzg4MTcwOS4wLjAuMA..",
+        "dLink1": "ms-windows-store://pdp?cid=ri-site&hl=en-gb&gl=bd&referrer=storeforweb&source=https%3A%2F%2Freincubate.com%2F&productid=9pgm3qb3pdrd&ocid=storeweb-pdp-open-cta"
+    },
+    {
+        "name": "Brave",
+        "imgLink": "https://brave.com/static-assets/images/brave-logo-sans-text.svg",
+        "dLink": "https://laptop-updates.brave.com/download/BRV010?bitness=64"
+    },
+    {
+        "name": "Chrome",
+        "imgLink": "https://www.google.com/chrome/static/images/chrome-logo.svg",
+        "dLink": "https://dl.google.com/tag/s/appguid%3D%7B8A69D345-D564-463C-AFF1-A69D9E530F96%7D%26iid%3D%7B0AB67220-C248-7242-BB3B-4706C8EA2194%7D%26lang%3Den%26browser%3D4%26usagestats%3D1%26appname%3DGoogle%2520Chrome%26needsadmin%3Dprefers%26ap%3Dx64-stable-statsdef_1%26installdataindex%3Dempty/update2/installers/ChromeSetup.exe"
+    },
+    {
+        "name": "Chrome Remote Desktop",
+        "imgLink": "",
+        "dLink": ""
+    },
+    {
+        "name": "Clipchamp",
+        "imgLink": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Microsoft_Clipchamp.svg",
+        "dLink": "ms-windows-store://pdp?hl=en-us&gl=us&referrer=storeforweb&source=https%3A%2F%2Fwww.google.com%2F&productid=9p1j8s7ccwwt&ocid=storeweb-pdp-open-cta"
+    },
+    {
+        "name": "Discord",
+        "imgLink": "./images/Discord.svg",
+        "imgLink1": "https://static.wikia.nocookie.net/diarchy-mapping/images/d/d9/Discord_new.svg/revision/latest?cb=20230107222137",
+        "imgLink1": "https://cdn.worldvectorlogo.com/logos/discord-6.svg",
+        "dLink": "https://discord.com/api/downloads/distributions/app/installers/latest?channel=stable&platform=win&arch=x86"
+    },
+    {
+        "name": "Droidcam",
+        "imgLink": "https://www.novolook.app/static/logo/droidcam.webp",
+        "imgLink1": "./images/droidcam.svg", 
+        "imgLink2": "./images/droidcam (4).svg", 
+        "imgLink2Comment": "https://www.convertsimple.com/convert-webp-to-svg/", 
+        "imgLink3": "./droidcam (5).svg",
+        "imgLink3Comment": "https://www.online-convert.com/",
+        "dLink": "https://github.com/dev47apps/windows-releases/releases/download/win-6.5.2/DroidCam.Setup.6.5.2.exe"
+    },
+    {
+        "name": "Epic Games Launcher",
+        "imgLink": "",
+        "dLink": ""
+    },
+    {
+        "name": "Firefox",
+        "imgLink": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Firefox_logo%2C_2019.svg",
+        "imgLink1": "https://cdn.worldvectorlogo.com/logos/firefox-6.svg",
+        "dLink": "https://download.mozilla.org/?product=firefox-stub&os=win",
+        "dLink1": "https://www.mozilla.org/en-US/firefox/download/thanks/"
+    },
+    {
+        "name": "Git",
+        "imgLink": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg",
+        "dLink": ""
+    },
+    {
+        "name": "Github",
+        "imgLink": "https://upload.wikimedia.org/wikipedia/commons/c/c2/GitHub_Invertocat_Logo.svg",
+        "dLink": "https://central.github.com/deployments/desktop/desktop/latest/win32",
+        "dLink1": "https://desktop.githubusercontent.com/releases/3.4.3-2170ce9b/GitHubDesktopSetup-x64.exe"
+    },
+    {
+        "name": "Google Drive for Desktop",
+        "imgLink": "https://upload.wikimedia.org/wikipedia/commons/1/12/Google_Drive_icon_%282020%29.svg",
+        "imgLink1": "https://kstatic.googleusercontent.com/files/f4b4fbcc6119576da7ab3f68270196009fc1b16f1927910842d793c385115593b6dd5fbe9a1e21fe64f3cbbc509c3a02c95ebc9635f76c355282482986f1fe7d",
+        "dLink": "https://dl.google.com/drive-file-stream/GoogleDriveSetup.exe"
+    },
+    {
+        "name": "hv-KB390L",
+        "imgLink": "",
+        "dLink": ""
+    },
+    {
+        "name": "ICUE",
+        "imgLink": "https://store-images.s-microsoft.com/image/apps.62319.14185026271321118.98d34718-f3da-4754-8417-a1441b7984b7.c325c7f6-8f83-47ef-9f0d-abfc90dca3c4?h=464",
+        "dLink": ""
+    },
+    {
+        "name": "IDM",
+        "imgLink": "https://odvme.com/uploads/posts/2021-11/internet-download-manager.webp",
+        "dLink": ""
+    },
+    {
+        "name": "Java",
+        "imgLink": "https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg",
+        "dLink": "https://javadl.oracle.com/webapps/download/AutoDL?BundleId=250111_d8aa705069af427f9b83e66b34f5e380"
+    },
+    {
+        "name": "K-lite_Codec_Pack_1653_Standard",
+        "imgLink": "",
+        "dLink": ""
+    },
+    {
+        "name": "KMPlayer",
+        "imgLink": "https://upload.wikimedia.org/wikipedia/commons/3/34/KMPlayer_Icon_2.png",
+        "dLink": "https://www.kmplayer.com/home#layer-64x"
+    },
+    {
+        "name": "LDPlayer",
+        "imgLink": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Ldplayer-logo.svg",
+        "dLink": "https://cdn.ldplayer.net/download/ldad/LDPlayer9.exe?n=LDPlayer9_ens_10080_ld.exe"
+    },
+    {
+        "name": "Linkdin",
+        "imgLink": "https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg",
+        "dLink": "ms-windows-store://pdp?hl=en-us&gl=us&referrer=storeforweb&source=https%3A%2F%2Fwww.google.com%2F&productid=9wzdncrfj4q7&ocid=storeweb-pdp-open-cta"
+    },
+    {
+        "name": "Lively Wallpaper",
+        "imgLink": "https://store-images.s-microsoft.com/image/apps.64891.14252228613609425.18bc5fb1-e37a-4f87-be91-af6dfee5242c.fcacab02-caf5-4e81-97f5-955d473d9f79",
+        "imgLink1": "https://store-images.s-microsoft.com/image/apps.4720.14416131676512756.84314783-1c86-4403-b991-2e1da8525703.bf78340f-7059-4641-8d3f-8a7f740be8c0?h=210",
+        "dLink": "ms-windows-store://pdp?hl=en-gb&gl=bd&referrer=storeforweb&source=https%3A%2F%2Fwww.google.com%2F&productid=9ntm2qc6qws7&ocid=storeweb-pdp-open-cta"
+    },
+    {
+        "name": "Logitech G Hub",
+        "imgLink": "https://static.macupdate.com/products/62352/l/logitech-g-hub-logo.png?v=1671137097",
+        "dLink": "https://download01.logi.com/web/ftp/pub/techsupport/gaming/lghub_installer.exe"
+    },
+    {
+        "name": "Mega / Mega Sync",
+        "imgLink": "https://mega.io/wp-content/themes/megapages/megalib/images/megaicon.svg",
+        "dLink": "https://mega.nz/MEGAsyncSetup64.exe"
+    },
+    {
+        "name": "Messenger",
+        "imgLink": "https://cdn.worldvectorlogo.com/logos/facebook-messenger-3.svg",
+        "dLink": "https://scontent.fdac160-1.fna.fbcdn.net/v/t39.2270-6/10000000_72914790344951781_3423520104486843270_n.exe/Messenger.208.0.0.9.229.exe?_nc_cat=105&ccb=1-7&_nc_sid=e3bcee&_nc_ohc=jvoTAYQbyhgAX_xJ9nS&_nc_ht=scontent.fdac160-1.fna&oh=00_AfBi1BXG2BeXCiy7uAP_z4GJYc5dKhcY88tkRxZ39c6Gzw&oe=661314C3&dl=1"
+    },
+    {
+        "name": "Mobility Print (Papercut)",
+        "webpage": "https://www.papercut.com/products/free-software/mobility-print/",
+        "imgLink": "https://cdn.papercut.com/web/img/products/mobility-print/logo.svg",
+        "dLink": "https://www.papercut.com/api/product/mobility-print/latest/server/windows/"
+    },
+    {
+        "name": "MS Edge",
+        "imgLink": "https://upload.wikimedia.org/wikipedia/commons/9/98/Microsoft_Edge_logo_%282019%29.svg",
+        "dLink": "https://c2rsetup.officeapps.live.com/c2r/downloadEdge.aspx?platform=Default&source=EdgeStablePage&Channel=Stable&language=en&brand=M100",
+        "dLink1": "https://go.microsoft.com/fwlink/?linkid=2109047&Channel=Stable&language=en&brand=M100"
+    },
+    {
+        "name": "MSI Center",
+        "imgLink": "https://store-images.s-microsoft.com/image/apps.62389.14391694625478041.213206df-c633-4b18-bfff-e042e6ff28f5.1157c0ce-f9bc-46ee-82f9-bda4ce500c69",
+        "dLink": "https://download.msi.com/uti_exe/desktop/MSI-Center.zip"
+    },
+    {
+        "name": "NFS most wanted",
+        "imgLink": "",
+        "dLink": ""
+    },
+    {
+        "name": "Nodejs v20",
+        "imgLink": "https://cdn-icons-png.flaticon.com/512/5968/5968322.png",
+        "dLink": "https://nodejs.org/dist/v20.16.0/node-v20.16.0-x64.msi"
+    },
+    {
+        "name": "norton 360 for Gamers",
+        "imgLink": "",
+        "dLink": ""
+    },
+    {
+        "name": "Notepad Plus Plus",
+        "imgLink": "https://notepad-plus-plus.org/images/logo.svg",
+        "dLink": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.6.9/npp.8.6.9.Installer.x64.exe"
+    },
+    {
+        "name": "OBS Studio",
+        "imgLink": "https://upload.wikimedia.org/wikipedia/commons/d/d3/OBS_Studio_Logo.svg",
+        "dLink": "https://cdn-fastly.obsproject.com/downloads/OBS-Studio-30.2.2-Windows-Installer.exe"
+    },
+    {
+        "name": "OpenIV",
+        "imgLink": "",
+        "dLink": ""
+    },
+    {
+        "name": "Opera GX",
+        "imgLink": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Opera_GX_Icon.svg",
+        "dLink": "https://net.geo.opera.com/opera_gx/stable/windows/"
+    },
+    {
+        "name": "Opera",
+        "imgLink": "https://cdn.worldvectorlogo.com/logos/opera-2.svg",
+        "dLink": "https://net.geo.opera.com/opera/stable/windows"
+    },
+    {
+        "name": "Orbot",
+        "imgLink": "https://www.google.com/chrome/static/images/chrome-logo.svg",
+        "dLink": "https://dl.google.com/tag/s/appguid%3D%7B8A69D345-D564-463C-AFF1-A69D9E530F96%7D%26iid%3D%7B0AB67220-C248-7242-BB3B-4706C8EA2194%7D%26lang%3Den%26browser%3D4%26usagestats%3D1%26appname%3DGoogle%2520Chrome%26needsadmin%3Dprefers%26ap%3Dx64-stable-statsdef_1%26installdataindex%3Dempty/update2/installers/ChromeSetup.exe"
+    },
+    {
+        "name": "Overwolf",
+        "imgLink": "",
+        "dLink": ""
+    },
+    {
+        "name": "PotPlayer 64Bit",
+        "imgLink": "",
+        "dLink": ""
+    },
+    {
+        "name": "Pycharm Community Edition",
+        "imgLink": "https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg",
+        "dLink": "https://download.jetbrains.com/python/pycharm-community-2024.2.exe?_gl=1*1kwhm1m*_ga*MTA2Mjg1Mjg5LjE3MjM3MjE1NDQ.*_ga_9J976DJZ68*MTcyMzcyMTU0My4xLjEuMTcyMzcyMTY4My4wLjAuMA..",
+        "dLink1": "https://www.jetbrains.com/pycharm/download/download-thanks.html?platform=windows&code=PCC"
+    },
+    {
+        "name": "Python",
+        "imgLink": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg",
+        "dLink": "https://www.python.org/ftp/python/3.12.5/python-3.12.5-amd64.exe"
+    },
+    {
+        "name": "Razer Chroma Beta",
+        "imgLink": "",
+        "dLink": ""
+    },
+    {
+        "name": "razer Synapse Beta",
+        "imgLink": "",
+        "dLink": ""
+    },
+    {
+        "name": "Remote Mouse",
+        "imgLink": "https://play-lh.googleusercontent.com/SdvvARqZs4m4oesKw6maedFDV9ftdFCArqsiRj09lzu8km-hY7U1uGgT03dfUeGgSNM",
+        "dLink": "https://www.remotemouse.net/downloads/RemoteMouse.exe"
+    },
+    {
+        "name": "Roblox",
+        "imgLink": "https://upload.wikimedia.org/wikipedia/commons/4/48/Roblox_Logo_2021.png?download",
+        "dLink": "https://www.roblox.com/download/client?os=win"
+    },
+    {
+        "name": "Shareit",
+        "imgLink": "",
+        "dLink": "https://dl.google.com/tag/s/appguid%3D%7B8A69D345-D564-463C-AFF1-A69D9E530F96%7D%26iid%3D%7B0AB67220-C248-7242-BB3B-4706C8EA2194%7D%26lang%3Den%26browser%3D4%26usagestats%3D1%26appname%3DGoogle%2520Chrome%26needsadmin%3Dprefers%26ap%3Dx64-stable-statsdef_1%26installdataindex%3Dempty/update2/installers/ChromeSetup.exe"
+    },
+    {
+        "name": "Skype",
+        "imgLink": "https://upload.wikimedia.org/wikipedia/commons/6/60/Skype_logo_%282019%E2%80%93present%29.svg",
+        "dLink": "https://go.skype.com/skype.download"
+    },
+    {
+        "name": "Spotify",
+        "webpage": "https://www.spotify.com/de-en/download/windows/",
+        "webpage1": "https://apps.microsoft.com/detail/9ncbcszsjrsb?rtc=1&hl=en-bd&gl=bd",
+        "imgLink": "https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg",
+        "dLink": "https://download.scdn.co/SpotifySetup.exe",
+        "dLink1": "ms-windows-store://pdp?rtc=1&hl=en-bd&gl=bd&referrer=storeforweb&source=https%3A%2F%2Fwww.google.com%2F&productid=9ncbcszsjrsb&ocid=storeweb-pdp-open-cta"
+    },
+    {
+        "name": "Steam",
+        "imgLink": "https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg",
+        "dLink": "https://cdn.akamai.steamstatic.com/client/installer/SteamSetup.exe"
+    },
+    {
+        "name": "Telegram",
+        "imgLink": "https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg",
+        "dLink": "https://td.telegram.org/tx64/tsetup-x64.5.1.7.exe",
+        "dLink1": "https://telegram.org/dl/desktop/win64"
+    },
+    {
+        "name": "Televzr Light",
+        "imgLink" : "https://televzr.com/assets/images/logo-televzr.svg?36d283e70f",
+        "imgLink1": "https://images.sftcdn.net/images/t_app-icon-m/p/4e761c6f-3b30-4140-8d77-e99732484d5d/1541400416/2071-4-78299991-logo",
+        "imgLink2": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/c2/90/d1/c290d1de-ef9d-4bff-ce88-d55fd3356544/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x600wa.png",
+        "dLink": "https://televzr.com/download/?platform=win&uid=1156810198.1723716144"
+    },
+    {
+        "name": "TLauncher",
+        "imgLink": "https://cdn2.steamgriddb.com/icon/c45ae64fa263499a6f605b9ee351c7d2.png",
+        "dLink": "https://tlauncher.org/installer"
+    },
+    {
+        "name": "Tor",
+        "imgLink": "",
+        "dLink": "https://dl.google.com/tag/s/appguid%3D%7B8A69D345-D564-463C-AFF1-A69D9E530F96%7D%26iid%3D%7B0AB67220-C248-7242-BB3B-4706C8EA2194%7D%26lang%3Den%26browser%3D4%26usagestats%3D1%26appname%3DGoogle%2520Chrome%26needsadmin%3Dprefers%26ap%3Dx64-stable-statsdef_1%26installdataindex%3Dempty/update2/installers/ChromeSetup.exe"
+    },
+    {
+        "name": "TurboVPN",
+        "imgLink": "https://store-images.s-microsoft.com/image/apps.23129.57d6b2a3-8972-4e3b-9f65-3ff33275d5e7.dcf34d1c-de80-4dc4-ba6e-0b70f4ea3b66.53d4b0a9-d17e-47c0-b917-a54886eccbfb",
+        "imgLink2": "https://play-lh.googleusercontent.com/lyktmo5HvZkprNjrNOYC0Cul_8il704kPhl8rSUV4AXQ-jLpm_yb3wYcJ6QACLKgLV5I",
+        "dLink": "https://storage.googleapis.com/windows_bucket1/turbo/download/TurboVPN_setup.exe"
+    },
+    {
+        "name": "Unity Hub",
+        "imgLink": "",
+        "dLink": ""
+    },
+    {
+        "name": "Unity",
+        "imgLink": "",
+        "dLink": ""
+    },
+    {
+        "name": "uTorrent Desktop",
+        "imgLink": "https://upload.wikimedia.org/wikipedia/commons/3/33/UTorrent_current_logo.svg",
+        "imgLink1": "./images/ut.svg",
+        "dLink": "https://www.utorrent.com/downloads/complete/track/stable/os/win/"
+    },
+    {
+        "name": "uTorrent Web",
+        "imgLink": "./images/utweb.svg",
+        "dLink": "https://download-new.utorrent.com/endpoint/utweb/track/stable/os/win"
+    },
+    {
+        "name": "Valorant",
+        "webpage": "https://playvalorant.com/en-us/download/",
+        "imgLink": "https://scontent.frjh4-1.fna.fbcdn.net/v/t39.30808-6/355372759_654497906694584_7816220310620242950_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=YXxJ4K4-DiYQ7kNvgFHk2XW&_nc_ht=scontent.frjh4-1.fna&cb_e2o_trans=q&oh=00_AYB-jqDT_u9sGKovbG4bvXL5XTBlt1xFMkl5-s2176nOVQ&oe=66C63C53",
+        "imgLink1": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/217d5ea0-623d-40b1-9b31-027b904a5f15/de9c52a-19ec990d-41b6-4279-a12e-b2dd9927c3a1.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzIxN2Q1ZWEwLTYyM2QtNDBiMS05YjMxLTAyN2I5MDRhNWYxNVwvZGU5YzUyYS0xOWVjOTkwZC00MWI2LTQyNzktYTEyZS1iMmRkOTkyN2MzYTEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.wXe_xHM9mdzyX_MqWpIcvo9_62-Vmc-xp7n8ygxwYw0",
+        "dLink": "https://valorant.secure.dyn.riotcdn.net/channels/public/x/installer/current/live.live.eu.exe"
+    },
+    {
+        "name": "Viber",
+        "imgLink": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Viber_logo_2018_%28without_text%29.svg",
+        "dLink": "https://download.cdn.viber.com/desktop/windows/ViberSetup.exe"
+    },
+    {
+        "name": "Visual Studio",
+        "imgLink": "https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg",
+        "dLink": "https://c2rsetup.officeapps.live.com/c2r/downloadVS.aspx?sku=community&channel=Release&version=VS2022&source=VSLandingPage&cid=2030:649401cba7e24c538932a51c332f2c6b",
+        "dLink1": "https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Community&channel=Release&version=VS2022&source=VSLandingPage&cid=2030&passive=false"
+    },
+    {
+        "name": "VScode",
+        "imgLink": "https://visualstudio.microsoft.com/wp-content/uploads/2022/09/VisualStudioCode.svg",
+        "imgLink1": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg",
+        "imgLink2": "./images/vscode.png",
+        "dLink": "https://code.visualstudio.com/sha/download?build=stable&os=win32-x64-user",
+        "dLink1": "https://code.visualstudio.com/docs/?dv=win64user",
+        "dLink2": "https://code.visualstudio.com/Download"
+    },
+    {
+        "name": "Whatsapp",
+        "imgLink": "https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg",
+        "imgLink2": "https://cdn.worldvectorlogo.com/logos/whatsapp-8.svg",
+        "dLink": "https://get.microsoft.com/installer/download/9NKSQGP7F2NH?cid=sideload_experiment_test"
+    },
+    {
+        "name": "Whiteboard",
+        "imgLink": "",
+        "dLink": "https://dl.google.com/tag/s/appguid%3D%7B8A69D345-D564-463C-AFF1-A69D9E530F96%7D%26iid%3D%7B0AB67220-C248-7242-BB3B-4706C8EA2194%7D%26lang%3Den%26browser%3D4%26usagestats%3D1%26appname%3DGoogle%2520Chrome%26needsadmin%3Dprefers%26ap%3Dx64-stable-statsdef_1%26installdataindex%3Dempty/update2/installers/ChromeSetup.exe"
+    },
+    {
+        "name": "WSA (Windows Subsystem for Android™)",
+        "webpage": "https://github.com/MustardChef/WSABuilds/releases/tag/Windows_11_2311.40000.5.0_LTS_3",
+        "imgLink": "",
+        "dLink": "https://github.com/MustardChef/WSABuilds/releases/download/Windows_11_2311.40000.5.0_LTS_3/WSA_2311.40000.5.0_x64_Release-Nightly-with-magisk-27.0.27000.-stable-GApps-13.0.7z",
+        "dLink1": "https://github.com/MustardChef/WSABuilds/releases/download/Windows_11_2311.40000.5.0_LTS_3/WSA_2311.40000.5.0_x64_Release-Nightly-GApps-13.0.7z"
+    },
+    {
+        "name": "WinRAR",
+        "imgLink": "./images/WinRAR_Logo_2018.png",
+        "imgLink1": "https://static.wikia.nocookie.net/logopedia/images/4/4f/WinRAR_Logo_2018.png/revision/latest?cb=20180730011613",
+        "dLink": "https://www.win-rar.com/fileadmin/winrar-versions/winrar/winrar-x64-701.exe"
+    },
+    {
+        "name": "Wondershare Filmora 13",
+        "imgLink": "https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-square.svg",
+        "dLink": "https://download.wondershare.net/filmora-idco_full1901.exe?_gl=1*1kbndj6*_gcl_aw*R0NMLjE3MjM2NTc1NjMuQ2owS0NRandxX0cxQmhDU0FSSXNBQ2M3TnhxMFBmLUFBZ20zeE5KSDFXZWpHR0ZNNDRfZHVJenoxRlRPQ2lEZUpONS0ySzd5X3ZleHRyOGFBbXRRRUFMd193Y0I.*_gcl_au*OTcyMTQyMDkxLjE3MjM2NTc1MjM.*_ga*NzIwODcyNDM5LjE3MTU5Mzk0MTU.*_ga_24WTSJBD5B*MTcyMzY1NzUyOS4xLjEuMTcyMzY1NzcxOS40MS4wLjY3MTA3MDM2OQ.."
+    },
+    {
+        "name": "Xbox",
+        "imgLink": "",
+        "dLink": "https://dl.google.com/tag/s/appguid%3D%7B8A69D345-D564-463C-AFF1-A69D9E530F96%7D%26iid%3D%7B0AB67220-C248-7242-BB3B-4706C8EA2194%7D%26lang%3Den%26browser%3D4%26usagestats%3D1%26appname%3DGoogle%2520Chrome%26needsadmin%3Dprefers%26ap%3Dx64-stable-statsdef_1%26installdataindex%3Dempty/update2/installers/ChromeSetup.exe"
+    },
+    {
+        "name": "Zoom",
+        "imgLink": "https://cdn.worldvectorlogo.com/logos/zoom-app.svg",
+        "dLink": "https://cdn.zoom.us/prod/5.17.11.34827/x64/ZoomInstallerFull.exe"
+    }
+
+]

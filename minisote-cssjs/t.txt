@@ -1,0 +1,20 @@
+Assigment through CSS:
+
+element {
+  --element-width: 300px;
+
+  width: var(--element-width, 100%);
+}
+Assignment through JS
+
+ELEMENT.style.setProperty('--element-width', NEW_VALUE);
+Get property value through JS
+
+ELEMENT.style.getPropertyValue('--element-width');
+
+Here useful links:
+
+https://developer.mozilla.org/en-US/docs/Web/CSS/--*
+https://developer.mozilla.org/en-US/docs/Web/API/CSSStyleDeclaration/getPropertyValue
+https://developer.mozilla.org/en-US/docs/Web/API/CSSStyleDeclaration/setProperty
+https://developer.mozilla.org/en-US/docs/Web/API/CSSStyleDeclaration/removeProperty

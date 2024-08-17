@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en" class="w-[100%]">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Windows Apps Mannagement</title>
+
+    <!--COMMON SHEEET-->
+    <link rel="stylesheet" href="./stylesheets/style.css">
+    
+    <!--MEDIA QUERY SHEET-->
+    <link rel="stylesheet" type="text/css" href="./stylesheets/sw.css"  media="screen and (min-width: 50px)" class="RWD-CSS-Elmnt">
+    <link rel="stylesheet" type="text/css" href="./stylesheets/xxs.css" media="screen and (min-width: 151px)" class="RWD-CSS-Elmnt">
+    <link rel="stylesheet" type="text/css" href="./stylesheets/xs.css"  media="screen and (min-width: 320px)" class="RWD-CSS-Elmnt">
+    <link rel="stylesheet" type="text/css" href="./stylesheets/sm.css"  media="screen and (min-width: 450px)" class="RWD-CSS-Elmnt">
+    <link rel="stylesheet" type="text/css" href="./stylesheets/md.css"  media="screen and (min-width: 768px)" class="RWD-CSS-Elmnt">
+    <link rel="stylesheet" type="text/css" href="./stylesheets/lg.css"  media="screen and (min-width: 992px)" class="RWD-CSS-Elmnt">
+    <link rel="stylesheet" type="text/css" href="./stylesheets/xl.css"  media="screen and (min-width: 1200px)" class="RWD-CSS-Elmnt">
+    <link rel="stylesheet" type="text/css" href="./stylesheets/xxl.css" media="screen and (min-width: 3840px)" class="RWD-CSS-Elmnt">
+    <link rel="stylesheet" id="RWD-CSS-Elmnt">
+</head>
+
+<body>
+    
+<header>
+    <script>
+        window.addEventListener("scroll", (function() {
+            var e = (document.body.scrollTop || document.documentElement.scrollTop) / (document.documentElement.scrollHeight - document.documentElement.clientHeight) * 100;
+            document.getElementById("scrollTracker").style.width = e + "%"
+        }))
+    </script>
+    <div id="scrollTracker"></div>
+    <section id="branding">
+        <h1 class="txtAl-left">Windows Apps Mannager</h1>
+    </section>
+    <nav id="navbar">
+        <div>Dashboard</div>
+        <div>Softwares</div>
+        <div>Games</div>
+    </nav>
+</header>
+
+<main>
+    <section id="search">
+        <input title="Find any software by inputing here name of that software." placeholder="&nbsp;&nbsp;&nbsp;Search" type="search" name="" id="" oninput="search(this)">
+    </section>
+    <section id="softwares"></section>
+</main>
+<footer>
+    <section id="services">
+        <ul>
+            <li>Help Center</li>
+            <li>Cookie Policy</li>
+            <li>Ser-Privacy</li>
+            <li>Ser-Policy</li>
+            <li>Soft-EULA</li>
+            <li>ToS</li>
+            <li>Legal Notes</li>
+            <li>FAQ</li>
+            <li>Sitemap</li>
+            <li>Documentations</li> 
+            <li>Report Center</li>
+            <li>Contact</li>
+            <li>Announcement</li>
+            <li>Projects</li>
+        </ul>
+    </section>
+    <section id="copyright">
+        <p>Copyright &copy; 2024 <i>Rafid Al Mahmud</i>. All rights reserved.</p>
+    </section>
+</footer>
+
+<script src="./script.js"></script>
+<script src="../minisote-cssjs/test/test.js"></script>
+</body>
+
+</html>

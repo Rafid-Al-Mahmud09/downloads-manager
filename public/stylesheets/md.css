@@ -1,0 +1,21 @@
+*{font-size: small;}
+header{
+    height: 50px;
+    flex-direction: row;
+    padding: 5px;
+}
+header>section#branding{
+    flex: 7;
+}
+header>nav#navbar{
+    justify-content: space-between;
+    flex: 3;
+}
+header>nav>div{
+    height: 40px;
+    padding: 1em;
+    flex: 0.3;
+}
+main>section#softwares>div{
+    justify-content: space-around;
+}
