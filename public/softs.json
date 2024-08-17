@@ -13,9 +13,10 @@
     },
     {
         "name": "Alexa",
-        "imgLink": "https://scontent.fdac155-1.fna.fbcdn.net/v/t39.30808-6/308761627_426000996331074_2507741498925351291_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_ohc=gb_cu1jcJqcQ7kNvgFa88A2&_nc_ht=scontent.fdac155-1.fna&cb_e2o_trans=q&oh=00_AYD61YnnfM-u6XyEEAJTpWqBhllvJocEvkhf2s5ezz4o7w&oe=667F0DD5",
-        "imgLink1": "https://cdn-www.bluestacks.com/bs-images/gametiles_com.amazon.dee_.app_19-1.jpg",
-        "dLink": ""
+        "imgLink": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Amazon_Alexa_blue_logo.svg",
+        "imgLink1": "https://scontent.fdac155-1.fna.fbcdn.net/v/t39.30808-6/308761627_426000996331074_2507741498925351291_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_ohc=gb_cu1jcJqcQ7kNvgFa88A2&_nc_ht=scontent.fdac155-1.fna&cb_e2o_trans=q&oh=00_AYD61YnnfM-u6XyEEAJTpWqBhllvJocEvkhf2s5ezz4o7w&oe=667F0DD5",
+        "imgLink2": "https://cdn-www.bluestacks.com/bs-images/gametiles_com.amazon.dee_.app_19-1.jpg",
+        "dLink": "ms-windows-store://pdp?activetab=pivot%3Aoverviewtab&hl=en-us&gl=us&referrer=storeforweb&productid=9n12z3cctcnz&ocid=storeweb-pdp-open-cta"
     },
     {
         "name": "AnyDesk",
@@ -84,7 +85,21 @@
     },
     {
         "name": "Camo Studio",
-        "imgLink": "https://f.reincubate.com/logos/camo.svg",
+        "imgLink": "https://assets.corsair.com/image/upload/f_auto/q_auto/v1665098681/akamai/landing/icue-mb/asus-logo.png?w=1920&q=75",
+        "dLink": "https://releases.reincubate.com/camo-windows-latest.msi?_gl=1*172koo3*_gcl_au*MTM3Nzg0NzY0My4xNzIzNjUzNTAz*_ga*MTAxMzgxNjIwOS4xNzIzNjUzNTAz*_ga_WZ4DCKE2NC*MTcyMzg4MTYzMS4yLjEuMTcyMzg4MTcwOS4wLjAuMA..",
+        "dLink1": "ms-windows-store://pdp?cid=ri-site&hl=en-gb&gl=bd&referrer=storeforweb&source=https%3A%2F%2Freincubate.com%2F&productid=9pgm3qb3pdrd&ocid=storeweb-pdp-open-cta"
+    },
+    {
+        "name": "CORSAIR iCUE v5.17.110 with iCUE",
+        "webpage": "https://www.corsair.com/us/en/s/downloads",
+        "imgLink": "https://assets.corsair.com/image/upload/f_auto/q_auto/v1665126351/akamai/responsive/img/downloads/product-thumbs/iCUE-product_thumb.jpg?w=1920&q=75",
+        "dLink": "https://releases.reincubate.com/camo-windows-latest.msi?_gl=1*172koo3*_gcl_au*MTM3Nzg0NzY0My4xNzIzNjUzNTAz*_ga*MTAxMzgxNjIwOS4xNzIzNjUzNTAz*_ga_WZ4DCKE2NC*MTcyMzg4MTYzMS4yLjEuMTcyMzg4MTcwOS4wLjAuMA..",
+        "dLink1": "ms-windows-store://pdp?cid=ri-site&hl=en-gb&gl=bd&referrer=storeforweb&source=https%3A%2F%2Freincubate.com%2F&productid=9pgm3qb3pdrd&ocid=storeweb-pdp-open-cta"
+    },
+    {
+        "name": "CORSAIR RGB Memory Plugin for ASUS AURA SYNC",
+        "webpage": "https://www.corsair.com/us/en/s/downloads",
+        "imgLink": "https://assets.corsair.com/image/upload/f_auto/q_auto/v1665098681/akamai/landing/icue-mb/asus-logo.png?w=1920&q=75",
         "dLink": "https://releases.reincubate.com/camo-windows-latest.msi?_gl=1*172koo3*_gcl_au*MTM3Nzg0NzY0My4xNzIzNjUzNTAz*_ga*MTAxMzgxNjIwOS4xNzIzNjUzNTAz*_ga_WZ4DCKE2NC*MTcyMzg4MTYzMS4yLjEuMTcyMzg4MTcwOS4wLjAuMA..",
         "dLink1": "ms-windows-store://pdp?cid=ri-site&hl=en-gb&gl=bd&referrer=storeforweb&source=https%3A%2F%2Freincubate.com%2F&productid=9pgm3qb3pdrd&ocid=storeweb-pdp-open-cta"
     },
@@ -112,7 +127,7 @@
         "name": "Discord",
         "imgLink": "./images/Discord.svg",
         "imgLink1": "https://static.wikia.nocookie.net/diarchy-mapping/images/d/d9/Discord_new.svg/revision/latest?cb=20230107222137",
-        "imgLink1": "https://cdn.worldvectorlogo.com/logos/discord-6.svg",
+        "imgLink2": "https://cdn.worldvectorlogo.com/logos/discord-6.svg",
         "dLink": "https://discord.com/api/downloads/distributions/app/installers/latest?channel=stable&platform=win&arch=x86"
     },
     {
@@ -127,6 +142,13 @@
     },
     {
         "name": "Epic Games Launcher",
+        "webpage": "https://apps.microsoft.com/detail/xp89hz8svwtt0m?hl=en-US&gl=US",
+        "webpage1": "https://github.com/marticliment/ElevenClock",
+        "imgLink": "https://images-eds-ssl.xboxlive.com/image?url=4rt9.lXDC4H_93laV1_eHM0OYfiFeMI2p9MWie0CvL99U4GA1gf6_kayTt_kBblFwHwo8BW8JXlqfnYxKPmmBRsWpOVWNx4_1IW0A6N5LuFhG51f_3AAywxUeuUyQ70Fqqe2W1vAa4MQoJR9hynuWCpxJ1uz.l55euifRoVRU60-&format=source&h=210",
+        "dLink": "ms-windows-store://pdp?hl=en-us&gl=us&productid=xp89hz8svwtt0m&referrer=storeforweb&source=https%3A%2F%2Fwww.google.com%2F&mode=mini&pos=0%2C0%2C1920%2C1032"
+    },
+    {
+        "name": "Epic Games Launcher",
         "imgLink": "",
         "dLink": ""
     },
@@ -136,6 +158,11 @@
         "imgLink1": "https://cdn.worldvectorlogo.com/logos/firefox-6.svg",
         "dLink": "https://download.mozilla.org/?product=firefox-stub&os=win",
         "dLink1": "https://www.mozilla.org/en-US/firefox/download/thanks/"
+    },
+    {
+        "name": "GIGABYTE Control Center",
+        "imgLink": "https://www.gigabyte.com/FileUpload/Global/WebPage/942/innergigabyte/images/gcc.png",
+        "dLink": "https://download.gigabyte.com/FileList/Utility/GCC_24.07.02.01.zip"
     },
     {
         "name": "Git",
@@ -243,7 +270,7 @@
         "dLink": "https://nodejs.org/dist/v20.16.0/node-v20.16.0-x64.msi"
     },
     {
-        "name": "norton 360 for Gamers",
+        "name": "Norton 360 for Gamers",
         "imgLink": "",
         "dLink": ""
     },
@@ -300,13 +327,18 @@
     },
     {
         "name": "Razer Chroma Beta",
-        "imgLink": "",
-        "dLink": ""
+        "imgLink": "https://www.chromargb.com/wp-content/uploads/2024/06/Chroma-RGB-Logo.png",  
+        "dLink": "https://rzr.to/synapse-new-pc-download-beta"
     },
     {
-        "name": "razer Synapse Beta",
-        "imgLink": "",
-        "dLink": ""
+        "name": "Razer Synapse 3",
+        "imgLink": "https://assets2.razerzone.com/images/pnx.assets/9126c9767ba885448f53a187b439a08e/icon-synapse3.svg",
+        "dLink": "https://rzr.to/synapse-3-pc-download"
+    },
+    {
+        "name": "Razer Synapse Beta",
+        "imgLink": "https://assets2.razerzone.com/images/pnx.assets/9126c9767ba885448f53a187b439a08e/icon-synapse3.svg",
+        "dLink": "https://rzr.to/synapse-new-pc-download-beta"
     },
     {
         "name": "Remote Mouse",
@@ -314,9 +346,23 @@
         "dLink": "https://www.remotemouse.net/downloads/RemoteMouse.exe"
     },
     {
+        "name": "RGBFusion (GIGABYTE)",
+        "imgLink": "https://www.gigabyte.com/FileUpload/Global/MicroSite/512/images/rgb2-logo.png",
+        "imgLink1": "https://www.gigabyte.com/FileUpload/Global/GMicroSite/187/Activity/606/images/rgb-fusion-logo.png",
+        "dLink": "https://www.gigabyte.com/Support/Utility?kw=rgb+fusion&p=1"
+    },
+    {
         "name": "Roblox",
         "imgLink": "https://upload.wikimedia.org/wikipedia/commons/4/48/Roblox_Logo_2021.png?download",
         "dLink": "https://www.roblox.com/download/client?os=win"
+    },
+    {
+        "name": "Safari",
+        "webpage": "https://safari.en.download.it/",
+        "webpage1": "https://www.apple.com/safari/",
+        "imgLink": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Safari_2020_logo.svg",
+        "dLink": "https://dl.download.it/US/safari.exe?st=nuYacReKj5agxN7DNWrj6A&e=1723921953",
+        "dLink1": "https://dl.download.it/US/safari.exe?st=YJ67LhmrbQ-Cxs6zvdq0mw&e=1723921901"
     },
     {
         "name": "Shareit",
@@ -338,14 +384,24 @@
     },
     {
         "name": "Steam",
+        "webpage": "https://store.steampowered.com/about/download",
         "imgLink": "https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg",
         "dLink": "https://cdn.akamai.steamstatic.com/client/installer/SteamSetup.exe"
     },
     {
         "name": "Telegram",
+        "webpage": "https://desktop.telegram.org/",
+        "webpage1": "https://apps.microsoft.com/detail/9nztwsqntd0s?hl=en-gb&gl=BD",
         "imgLink": "https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg",
         "dLink": "https://td.telegram.org/tx64/tsetup-x64.5.1.7.exe",
-        "dLink1": "https://telegram.org/dl/desktop/win64"
+        "dLink1": "https://telegram.org/dl/desktop/win64",
+        "dLink2": "ms-windows-store://pdp?hl=en-gb&gl=bd&referrer=storeforweb&source=https%3A%2F%2Fwww.google.com%2F&productid=9nztwsqntd0s&ocid=storeweb-pdp-open-cta"
+    },
+    {
+        "name": "Telegram (Portable version)",
+        "webpage": "https://desktop.telegram.org/",
+        "imgLink": "https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg",
+        "dLink": "https://telegram.org/dl/desktop/win64_portable"
     },
     {
         "name": "Televzr Light",
@@ -365,20 +421,47 @@
         "dLink": "https://dl.google.com/tag/s/appguid%3D%7B8A69D345-D564-463C-AFF1-A69D9E530F96%7D%26iid%3D%7B0AB67220-C248-7242-BB3B-4706C8EA2194%7D%26lang%3Den%26browser%3D4%26usagestats%3D1%26appname%3DGoogle%2520Chrome%26needsadmin%3Dprefers%26ap%3Dx64-stable-statsdef_1%26installdataindex%3Dempty/update2/installers/ChromeSetup.exe"
     },
     {
+        "name": "TORRENT: Forza Horizon 4 (Forza Horizon 4 [FitGirl Repack])",
+        "imgLink": "",
+        "dLink": "https://utweb.rainberrytv.com/gui/share.html#link=magnet%3A%3Fxt%3Durn%3Abtih%3A99f0a053dbe27e8b560b3b9c93f232aba5c9c8a3%26dn%3DForza%2520Horizon%25204%2520%255bFitGirl%2520Repack%255d%26tr%3Dudp%253a%252f%252f46.148.18.250%253a2710%26tr%3Dudp%253a%252f%252fopentor.org%253a2710%26tr%3Dudp%253a%252f%252ftracker.coppersurfer.tk%253a6969%252fannounce%26tr%3Dudp%253a%252f%252ftracker.opentrackr.org%253a1337%252fannounce%26tr%3Dhttp%253a%252f%252ftracker.dler.org%253a6969%252fannounce%26tr%3Dudp%253a%252f%252ftracker.leechers-paradise.org%253a6969%252fannounce%26tr%3Dudp%253a%252f%252f9.rarbg.me%253a2730%252fannounce%26tr%3Dudp%253a%252f%252f9.rarbg.to%253a2770%252fannounce%26tr%3Dudp%253a%252f%252ftracker.pirateparty.gr%253a6969%252fannounce%26tr%3Dhttp%253a%252f%252fretracker.local%252fannounce%26tr%3Dhttp%253a%252f%252fretracker.ip.ncnet.ru%252fannounce%26tr%3Dudp%253a%252f%252fexodus.desync.com%253a6969%252fannounce%26tr%3Dudp%253a%252f%252fipv4.tracker.harry.lu%253a80%252fannounce%26tr%3Dudp%253a%252f%252fopen.stealth.si%253a80%252fannounce%26tr%3Dudp%253a%252f%252fretracker.lanta-net.ru%253a2710%252fannounce%26tr%3Dudp%253a%252f%252ftracker.cyberia.is%253a6969%252fannounce%26tr%3Dudp%253a%252f%252ftracker.moeking.me%253a6969%252fannounce%26tr%3Dudp%253a%252f%252ftracker.open-internet.nl%253a6969%252fannounce%26tr%3Dudp%253a%252f%252ftracker.tiny-vps.com%253a6969%252fannounce%26tr%3Dudp%253a%252f%252ftracker.torrent.eu.org%253a451%252fannounce%26tr%3Dudp%253a%252f%252f9.rarbg.me%253a2770%252fannounce%26tr%3Dudp%253a%252f%252f9.rarbg.to%253a2720%252fannounce%26tr%3Dudp%253a%252f%252f9.rarbg.to%253a2730%252fannounce"
+    },
+    {
+        "name": "TORRENT: Human - Fall Flat (Human - Fall Flat [FitGirl Repack])",
+        "imgLink": "https://cdn2.steamgriddb.com/icon/4e6cd95227cb0c280e99a195be5f6615/32/256x256.png",
+        "dLink": "https://utweb.rainberrytv.com/gui/share.html#link=magnet%3A%3Fxt%3Durn%3Abtih%3Af26e8e782adb8b0797d847b0f7d03f2ceebb1fc6%26dn%3DHuman%2520-%2520Fall%2520Flat%2520%255bFitGirl%2520Repack%255d%26tr%3Dudp%253a%252f%252fopentor.net%253a6969%26tr%3Dudp%253a%252f%252fopentor.org%253a2710%26tr%3Dudp%253a%252f%252ftracker.opentrackr.org%253a1337%252fannounce%26tr%3Dhttp%253a%252f%252ftracker.dler.org%253a6969%252fannounce%26tr%3Dudp%253a%252f%252fexodus.desync.com%253a6969%252fannounce%26tr%3Dudp%253a%252f%252fipv4.tracker.harry.lu%253a80%252fannounce%26tr%3Dudp%253a%252f%252fopen.stealth.si%253a80%252fannounce%26tr%3Dudp%253a%252f%252fretracker.lanta-net.ru%253a2710%252fannounce%26tr%3Dudp%253a%252f%252ftracker.cyberia.is%253a6969%252fannounce%26tr%3Dudp%253a%252f%252ftracker.moeking.me%253a6969%252fannounce%26tr%3Dudp%253a%252f%252ftracker.tiny-vps.com%253a6969%252fannounce%26tr%3Dudp%253a%252f%252ftracker.torrent.eu.org%253a451%252fannounce%26tr%3Dudp%253a%252f%252ftracker.openbittorrent.com%253a80%252fannounce%26tr%3Dhttp%253a%252f%252ftracker.openbittorrent.com%253a80%252fannounce%26tr%3Dudp%253a%252f%252fopentracker.i2p.rocks%253a6969%252fannounce%26tr%3Dudp%253a%252f%252ftracker.internetwarriors.net%253a1337%252fannounce%26tr%3Dudp%253a%252f%252ftracker.leechers-paradise.org%253a6969%252fannounce%26tr%3Dudp%253a%252f%252fcoppersurfer.tk%253a6969%252fannounce%26tr%3Dudp%253a%252f%252ftracker.zer0day.to%253a1337%252fannounce"
+    },
+    {
+        "name": "TORRENT: Need for Speed - Most Wanted (Need for Speed - Most Wanted [FitGirl Repack])",
+        "imgLink": "https://assets-prd.ignimgs.com/2022/01/10/needforspeedmostwanted-sq-1641850444088.jpg",
+        "dLink": "https://utweb.rainberrytv.com/gui/share.html#link=magnet%3A%3Fxt%3Durn%3Abtih%3A420f3778a1606fbe6eb0a67c8470256be13b0ecc%26dn%3DNeed%2520for%2520Speed%2520-%2520Most%2520Wanted%2520%255bFitGirl%2520Repack%255d%26tr%3Dudp%253a%252f%252fopentor.org%253a2710%26tr%3Dhttp%253a%252f%252fretracker.local%252fannounce"
+    },
+    {
+        "name": "TORRENT: Poppy.Playtime.Chapter.3-RUNE",
+        "imgLink": "",
+        "dLink": "https://utweb.rainberrytv.com/gui/share.html#link=magnet%3A%3Fxt%3Durn%3Abtih%3A6adbe0152d10ffee3bdc8dd151c0aedbe91e510b%26dn%3DPoppy.Playtime.Chapter.3-RUNE"
+    },
+    {
+        "name": "TORRENT: Ranch Simulator (Ranch Simulator [FitGirl Repack])",
+        "imgLink": "https://scontent.frjh4-1.fna.fbcdn.net/v/t39.30808-6/303435184_485348206933203_342219449482797667_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=qgj0gL3PBQgQ7kNvgEuqFUD&_nc_ht=scontent.frjh4-1.fna&cb_e2o_trans=q&oh=00_AYChl_pRQit3s6rAJjiE0BTWbjml_wqc7jPpSmI99vSDYw&oe=66C6B551",
+        "imgLink1": "https://cdn2.steamgriddb.com/thumb/63dbe2a358aba5ae9d6215c97de1364f.jpg",
+        "dLink": "https://utweb.rainberrytv.com/gui/share.html#link=magnet%3A%3Fxt%3Durn%3Abtih%3Aba740685e9d53ed62d0b0bb9756cb98758ae706c%26dn%3DRanch%2520Simulator%2520%255bFitGirl%2520Repack%255d%26tr%3Dudp%253a%252f%252fopentor.net%253a6969%26tr%3Dudp%253a%252f%252fopentracker.i2p.rocks%253a6969%252fannounce%26tr%3Dhttp%253a%252f%252ftracker.gbitt.info%253a80%252fannounce%26tr%3Dudp%253a%252f%252ftracker.ccp.ovh%253a6969%252fannounce%26tr%3Dhttp%253a%252f%252ftracker.ccp.ovh%253a6969%252fannounce%26tr%3Dudp%253a%252f%252ftracker.torrent.eu.org%253a451%252fannounce%26tr%3Dudp%253a%252f%252ftracker.openbittorrent.com%253a6969%252fannounce%26tr%3Dudp%253a%252f%252ftracker.openbittorrent.com%253a80%252fannounce%26tr%3Dudp%253a%252f%252fexodus.desync.com%253a6969%252fannounce%26tr%3Dudp%253a%252f%252ftracker.theoks.net%253a6969%252fannounce%26tr%3Dhttps%253a%252f%252ftracker.tamersunion.org%253a443%252fannounce%26tr%3Dhttp%253a%252f%252fopen.acgnxtracker.com%253a80%252fannounce%26tr%3Dhttp%253a%252f%252fopen.acgtracker.com%253a1096%252fannounce%26tr%3Dudp%253a%252f%252ftracker.opentrackr.org%253a1337%252fannounce%26tr%3Dhttp%253a%252f%252ftracker.openbittorrent.com%253a80%252fannounce%26tr%3Dudp%253a%252f%252ftracker.internetwarriors.net%253a1337%252fannounce%26tr%3Dudp%253a%252f%252ftracker.leechers-paradise.org%253a6969%252fannounce%26tr%3Dudp%253a%252f%252fcoppersurfer.tk%253a6969%252fannounce%26tr%3Dudp%253a%252f%252ftracker.zer0day.to%253a1337%252fannounce"
+    },
+    {
         "name": "TurboVPN",
         "imgLink": "https://store-images.s-microsoft.com/image/apps.23129.57d6b2a3-8972-4e3b-9f65-3ff33275d5e7.dcf34d1c-de80-4dc4-ba6e-0b70f4ea3b66.53d4b0a9-d17e-47c0-b917-a54886eccbfb",
         "imgLink2": "https://play-lh.googleusercontent.com/lyktmo5HvZkprNjrNOYC0Cul_8il704kPhl8rSUV4AXQ-jLpm_yb3wYcJ6QACLKgLV5I",
         "dLink": "https://storage.googleapis.com/windows_bucket1/turbo/download/TurboVPN_setup.exe"
     },
     {
-        "name": "Unity Hub",
-        "imgLink": "",
-        "dLink": ""
-    },
-    {
-        "name": "Unity",
-        "imgLink": "",
-        "dLink": ""
+        "name": "Unity Hub (with Unity)",
+        "webpage": "https://unity.com/download",
+        "webpage1": "https://unity.com/releases/editor/archive",
+        "imgLink": "https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2F81nwobjayd181.png%3Fwidth%3D512%26format%3Dpng%26auto%3Dwebp%26s%3D027cac2b3ddd6f7b3f5e60a783706d1d0e8151ec",
+        "imgLink1": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Unity_2021.svg",
+        "imgLink2": "images/Unity_2021.svg",
+        "imgLink3": "images/unity_hub.webp",
+        "imgLink4": "images/unity.png",
+        "dLink": "https://public-cdn.cloud.unity3d.com/hub/prod/UnityHubSetup.exe"
     },
     {
         "name": "uTorrent Desktop",
