@@ -6,10 +6,16 @@
         "dLink1": "https://www.360totalsecurity.com/en/download-free-antivirus/360-total-security/?offline=1"
     },
     {
-        "name": "Acrobat Reader DC",
+        "name": "Acrobat Reader DC (Adobe)",
         "webpage": "https://apps.microsoft.com/detail/xpdp273c0xhqh2?hl=en-US&gl=US",
         "imgLink": "https://upload.wikimedia.org/wikipedia/commons/4/42/Adobe_Acrobat_DC_logo_2020.svg",
         "dLink": "ms-windows-store://pdp?hl=en-us&gl=us&productid=xpdp273c0xhqh2&referrer=storeforweb&source=https%3A%2F%2Fwww.google.com%2F&mode=mini&pos=0%2C0%2C1920%2C1032"
+    },
+    {
+        "name": "Adobe Express",
+        "webpage": "https://apps.microsoft.com/detail/9p94lh3q1cp5?hl=en-gb&gl=GB",
+        "imgLink": "https://helpx.adobe.com/content/dam/help/mnemonics/cc_express.svg",
+        "dLink": "ms-windows-store://pdp?hl=en-gb&gl=gb&referrer=storeforweb&source=https%3A%2F%2Fhelpx.adobe.com%2F&productid=9p94lh3q1cp5&ocid=storeweb-pdp-open-cta"
     },
     {
         "name": "Alexa",
@@ -30,8 +36,9 @@
     },
     {
         "name": "Asphalt 8: Airborne",
-        "imgLink": "https://static.wikia.nocookie.net/asphalt/images/f/f8/A8_v4.0_icon.png/revision/latest/scale-to-width-down/2147000000?cb=20181214173439",
+        "imgLink": "./images/Asphalt 8 - Airborne.png",
         "imgLink1": "https://odvme.com/uploads/posts/2024-03/4729c68206cffb0c83a326ab64ca2bb4.png",
+        "imgLink2": "https://static.wikia.nocookie.net/asphalt/images/f/f8/A8_v4.0_icon.png/revision/latest/scale-to-width-down/2147000000?cb=20181214173439",
         "dLink": "ms-windows-store://pdp?hl=en-us&gl=us&referrer=storeforweb&source=https%3A%2F%2Fwww.google.com%2F&productid=9wzdncrfj26j&ocid=storeweb-pdp-open-cta"
     },
     {
@@ -107,6 +114,13 @@
         "name": "Brave",
         "imgLink": "https://brave.com/static-assets/images/brave-logo-sans-text.svg",
         "dLink": "https://laptop-updates.brave.com/download/BRV010?bitness=64"
+    },
+    {
+        "name": "Cheat Engine",
+        "webpage": "https://www.cheatengine.org/downloads.php",
+        "webpage1": "https://github.com/cheat-engine/cheat-engine",
+        "imgLink": "https://upload.wikimedia.org/wikipedia/commons/9/90/Cheat_Engine_2023_Vector_Logo.svg",
+        "dLink": "https://d1vdn3r1396bak.cloudfront.net/installer/90431284/24423531373"
     },
     {
         "name": "Chrome",
@@ -243,6 +257,13 @@
         "dLink": "https://scontent.fdac160-1.fna.fbcdn.net/v/t39.2270-6/10000000_72914790344951781_3423520104486843270_n.exe/Messenger.208.0.0.9.229.exe?_nc_cat=105&ccb=1-7&_nc_sid=e3bcee&_nc_ohc=jvoTAYQbyhgAX_xJ9nS&_nc_ht=scontent.fdac160-1.fna&oh=00_AfBi1BXG2BeXCiy7uAP_z4GJYc5dKhcY88tkRxZ39c6Gzw&oe=661314C3&dl=1"
     },
     {
+        "name": "Microsoft Whiteboard",
+        "webpage": "https://apps.microsoft.com/detail/9mspc6mp8fm4?hl=en-us&gl=US",
+        "imgLink": "./images/MS_Whiteboard.svg",
+        "imgLink1": "https://static.wikia.nocookie.net/logopedia/images/4/4c/Whiteboard_RGB.svg/revision/latest?cb=20210317094325",
+        "dLink": "ms-windows-store://pdp?hl=en-us&gl=us&referrer=storeforweb&source=https%3A%2F%2Fwww.microsoft.com%2F&productid=9mspc6mp8fm4&ocid=storeweb-pdp-open-cta"
+    },
+    {
         "name": "Mobility Print (Papercut)",
         "webpage": "https://www.papercut.com/products/free-software/mobility-print/",
         "imgLink": "https://cdn.papercut.com/web/img/products/mobility-print/logo.svg",
@@ -258,11 +279,6 @@
         "name": "MSI Center",
         "imgLink": "https://store-images.s-microsoft.com/image/apps.62389.14391694625478041.213206df-c633-4b18-bfff-e042e6ff28f5.1157c0ce-f9bc-46ee-82f9-bda4ce500c69",
         "dLink": "https://download.msi.com/uti_exe/desktop/MSI-Center.zip"
-    },
-    {
-        "name": "NFS most wanted",
-        "imgLink": "",
-        "dLink": ""
     },
     {
         "name": "Nodejs v20",
@@ -422,7 +438,7 @@
     },
     {
         "name": "TORRENT: Forza Horizon 4 (Forza Horizon 4 [FitGirl Repack])",
-        "imgLink": "",
+        "imgLink": "./images/Dot_Torrent-removebg-preview.png",
         "dLink": "https://utweb.rainberrytv.com/gui/share.html#link=magnet%3A%3Fxt%3Durn%3Abtih%3A99f0a053dbe27e8b560b3b9c93f232aba5c9c8a3%26dn%3DForza%2520Horizon%25204%2520%255bFitGirl%2520Repack%255d%26tr%3Dudp%253a%252f%252f46.148.18.250%253a2710%26tr%3Dudp%253a%252f%252fopentor.org%253a2710%26tr%3Dudp%253a%252f%252ftracker.coppersurfer.tk%253a6969%252fannounce%26tr%3Dudp%253a%252f%252ftracker.opentrackr.org%253a1337%252fannounce%26tr%3Dhttp%253a%252f%252ftracker.dler.org%253a6969%252fannounce%26tr%3Dudp%253a%252f%252ftracker.leechers-paradise.org%253a6969%252fannounce%26tr%3Dudp%253a%252f%252f9.rarbg.me%253a2730%252fannounce%26tr%3Dudp%253a%252f%252f9.rarbg.to%253a2770%252fannounce%26tr%3Dudp%253a%252f%252ftracker.pirateparty.gr%253a6969%252fannounce%26tr%3Dhttp%253a%252f%252fretracker.local%252fannounce%26tr%3Dhttp%253a%252f%252fretracker.ip.ncnet.ru%252fannounce%26tr%3Dudp%253a%252f%252fexodus.desync.com%253a6969%252fannounce%26tr%3Dudp%253a%252f%252fipv4.tracker.harry.lu%253a80%252fannounce%26tr%3Dudp%253a%252f%252fopen.stealth.si%253a80%252fannounce%26tr%3Dudp%253a%252f%252fretracker.lanta-net.ru%253a2710%252fannounce%26tr%3Dudp%253a%252f%252ftracker.cyberia.is%253a6969%252fannounce%26tr%3Dudp%253a%252f%252ftracker.moeking.me%253a6969%252fannounce%26tr%3Dudp%253a%252f%252ftracker.open-internet.nl%253a6969%252fannounce%26tr%3Dudp%253a%252f%252ftracker.tiny-vps.com%253a6969%252fannounce%26tr%3Dudp%253a%252f%252ftracker.torrent.eu.org%253a451%252fannounce%26tr%3Dudp%253a%252f%252f9.rarbg.me%253a2770%252fannounce%26tr%3Dudp%253a%252f%252f9.rarbg.to%253a2720%252fannounce%26tr%3Dudp%253a%252f%252f9.rarbg.to%253a2730%252fannounce"
     },
     {
@@ -456,11 +472,11 @@
         "name": "Unity Hub (with Unity)",
         "webpage": "https://unity.com/download",
         "webpage1": "https://unity.com/releases/editor/archive",
-        "imgLink": "https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2F81nwobjayd181.png%3Fwidth%3D512%26format%3Dpng%26auto%3Dwebp%26s%3D027cac2b3ddd6f7b3f5e60a783706d1d0e8151ec",
+        "imgLink": "images/unity.png",
         "imgLink1": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Unity_2021.svg",
         "imgLink2": "images/Unity_2021.svg",
-        "imgLink3": "images/unity_hub.webp",
-        "imgLink4": "images/unity.png",
+        "imgLink3": "https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2F81nwobjayd181.png%3Fwidth%3D512%26format%3Dpng%26auto%3Dwebp%26s%3D027cac2b3ddd6f7b3f5e60a783706d1d0e8151ec",
+        "imgLink4": "images/unity_hub.webp",
         "dLink": "https://public-cdn.cloud.unity3d.com/hub/prod/UnityHubSetup.exe"
     },
     {
@@ -508,14 +524,10 @@
         "dLink": "https://get.microsoft.com/installer/download/9NKSQGP7F2NH?cid=sideload_experiment_test"
     },
     {
-        "name": "Whiteboard",
-        "imgLink": "",
-        "dLink": "https://dl.google.com/tag/s/appguid%3D%7B8A69D345-D564-463C-AFF1-A69D9E530F96%7D%26iid%3D%7B0AB67220-C248-7242-BB3B-4706C8EA2194%7D%26lang%3Den%26browser%3D4%26usagestats%3D1%26appname%3DGoogle%2520Chrome%26needsadmin%3Dprefers%26ap%3Dx64-stable-statsdef_1%26installdataindex%3Dempty/update2/installers/ChromeSetup.exe"
-    },
-    {
         "name": "WSA (Windows Subsystem for Android™)",
         "webpage": "https://github.com/MustardChef/WSABuilds/releases/tag/Windows_11_2311.40000.5.0_LTS_3",
-        "imgLink": "",
+        "imgLink": "./images/wsa.png",
+        "imgLink1": "https://user-images.githubusercontent.com/68516357/216452358-8137df76-875f-4b59-b77d-ca34c8a2d6d3.png",
         "dLink": "https://github.com/MustardChef/WSABuilds/releases/download/Windows_11_2311.40000.5.0_LTS_3/WSA_2311.40000.5.0_x64_Release-Nightly-with-magisk-27.0.27000.-stable-GApps-13.0.7z",
         "dLink1": "https://github.com/MustardChef/WSABuilds/releases/download/Windows_11_2311.40000.5.0_LTS_3/WSA_2311.40000.5.0_x64_Release-Nightly-GApps-13.0.7z"
     },
@@ -532,8 +544,12 @@
     },
     {
         "name": "Xbox",
-        "imgLink": "",
-        "dLink": "https://dl.google.com/tag/s/appguid%3D%7B8A69D345-D564-463C-AFF1-A69D9E530F96%7D%26iid%3D%7B0AB67220-C248-7242-BB3B-4706C8EA2194%7D%26lang%3Den%26browser%3D4%26usagestats%3D1%26appname%3DGoogle%2520Chrome%26needsadmin%3Dprefers%26ap%3Dx64-stable-statsdef_1%26installdataindex%3Dempty/update2/installers/ChromeSetup.exe"
+        "webpage": "https://www.xbox.com/en-US/apps/xbox-app-for-pc",
+        "webpage1": "https://apps.microsoft.com/detail/9mv0b5hzvk9z?hl=en-us&gl=US",
+        "imgLink": "https://assets.xboxservices.com/assets/dd/ca/ddcaf46f-0983-4dbe-b8d6-b80d4e924989.svg?n=Xbox-App-for-Windows-PC_Image-0_Logo_120x120.svg",
+        "imgLink1": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Xbox_one_logo.svg",
+        "dLink": "https://dlassets-ssl.xboxlive.com/public/content/XboxInstaller/XboxInstaller.exe",
+        "dLink1": "ms-windows-store://pdp?hl=en-us&gl=us&referrer=storeforweb&source=https%3A%2F%2Fwww.google.com%2F&productid=9mv0b5hzvk9z&ocid=storeweb-pdp-open-cta"
     },
     {
         "name": "Zoom",
