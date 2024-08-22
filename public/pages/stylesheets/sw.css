@@ -1,0 +1,31 @@
+header{
+    flex-direction: column;
+    padding-bottom: 25px;
+}
+header>nav{
+    flex-direction: column;
+}
+header>nav>div{
+    width: 100%;
+    padding: 1em;
+    border-radius: initial;
+    flex: 0 0 15%;
+}
+main>section#search>input{
+    font-size: x-small;
+}
+*{font-size: small;}
+main>section#softwares>div{
+    flex-direction: column;
+}
+main>section#softwares>div>div:nth-child(1){
+    width: 100%;
+}
+main>section#softwares>div>div:nth-child(1)>span{
+    word-break: break-all;
+}
+main>section#softwares>div>div:nth-child(2){
+    width: 100%;
+}
+
+footer>section#services>ul>li{width: 100%;}

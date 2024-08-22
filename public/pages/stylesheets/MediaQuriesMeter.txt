@@ -1,0 +1,55 @@
+/* Extra small devices (phones, 0px and up) */
+@media only screen and (max-width: 600px) {
+    * {
+        font-size: 100%;
+    }
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+    * {
+        /* font-size: 100%; */
+    }
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+    * {
+        /* font-size: 100%; */
+    }
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+    * {
+        /* font-size: 100%; */
+    }
+}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+    * {
+        /* font-size: 100%; */
+    }
+}
+
+/* Extra small devices (phones, 0px and up) */
+/* Small devices (~large phones and ~portrait~ tablets, 600px and up) */
+/* Medium devices (landscape tablets, 768px and up) */
+/* Large devices (laptops~/desktops~, 992px and up) */
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+smartwatch       (sw): [  50+] 50-149            
+mobiles         (xxs): [ 150+] 150-319      (240)
+smartphone       (xs): [ 320+] 320-449      (320,344,353,360,375,384,390,393,411,412,412,412,414,430)
+SmallTabs        (sm): [ 450+] 450-600-767  (480, 540, 600, 640, 712)
+Tab/LandsTabs/HUB(md): [ 768+] 768-991      (768, 800, 820, 853, 912)
+LndTab, smlap    (lg): [ 992+] 992-1200     (1024)
+laps, SMdesk     (xl): [1200+] 1200-3840    (1280, 1920)
+Lg desktops     (xxl): [3840+] 3840-...
+
+Watch:     133w    32sw  155h   32sh
+3310 : 165|150w   150sw  400h  170sh
+CASIO:     260w          570h
+NF2+ :     275w   255sw  530h  475sh
+TAB25:     360w   300sw  635h  530sh
+Laptp:    1300w  1200sw  875h  700sh

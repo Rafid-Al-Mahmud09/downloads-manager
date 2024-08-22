@@ -1,0 +1,343 @@
+/*
+# Initialize variables for whole stylesheet.
+*/
+/* __________^__________ */
+:root {
+    /* header, btn */
+    --ui1: hsl(221, 100%, 56%);
+    --ui2: black;
+    --ui3: white;
+    --ui4: #2CA4AB;
+    --btn-act: dodgerblue;
+    --navDivBoxShadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+    /* --bg: #00FEFF; */
+    /* --bg: gold;
+    --a: #7289da;
+    --b: #424549;
+    --c: #36393e;
+    --d: #282b30;
+    --e: #1e2124; */
+}
+/* __________$__________ */
+
+#scrollTracker{
+    background: -webkit-gradient(linear, left top, right top, from(#479dbb), color-stop(16.666%, #479dbb), color-stop(16.667%, #499da8), color-stop(33.332%, #499da8), color-stop(33.333%, #4c9e96), color-stop(49.998%, #4c9e96), color-stop(49.999%, #4d9e85), color-stop(66.664%, #4d9e85), color-stop(66.665%, #51a071), color-stop(83.33%, #51a071), color-stop(83.331%, #559e5e), to(#559e5e));
+    background: linear-gradient(90deg, #479dbb, #479dbb 16.666%, #499da8 16.667%, #499da8 33.332%, #4c9e96 33.333%, #4c9e96 49.998%, #4d9e85 49.999%, #4d9e85 66.664%, #51a071 66.665%, #51a071 83.33%, #559e5e 83.331%, #559e5e);
+    background: var(--ui1);
+    content: '';
+    height: .4rem;
+    left: 0;
+    position: fixed;
+    top: 0;
+    -webkit-transition: all .3s ease;
+    transition: all .3s ease;
+    width: 0;
+    z-index: 6;
+    font-family: Brut Grotesque, Work Sans, Arial, sans-serif;
+    font-size: 62.5%;
+    line-height: 1.5;
+}
+footer ul{    word-break: break-all; /*tghdhyvc also niche ar upore*/}
+footer ul>li{    height: 60px !important;}
+
+/*
+# Initialize default box sizing settings and fonts of all element of whole webpage.
+*/
+/* __________^__________ */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    /* font-family: Rafoitiro; */
+    scroll-behavior: smooth;
+    transition: all;
+    /* -ms-user-select: none;
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    user-select: none; */
+}
+/* __________$__________ */
+
+
+
+/*
+# STYLING: HTML
+*/
+/* __________^__________ */
+/* __________$__________ */
+
+
+
+/*
+# STYLING: HEAD
+*/
+/* __________^__________ */
+/* __________$__________ */
+
+
+
+/*
+# STYLING: BODY
+*/
+/* __________^__________ */
+/* __________$__________ */
+
+
+
+/*
+# STYLING: HEADER
+*/
+/* __________^__________ */
+header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* box-shadow: rgba(136, 165, 191, 0.48) 6px 2px 16px 0px, rgba(255, 255, 255, 0.8) -6px -2px 16px 0px; */
+    /* background: hsla(210, 90%, 80%, 1); */
+    /* background: -moz-linear-gradient(90deg, hsla(210, 90%, 80%, 1) 0%, hsla(212, 93%, 49%, 1) 100%); */
+    /* background: -webkit-linear-gradient(90deg, hsla(210, 90%, 80%, 1) 0%, hsla(212, 93%, 49%, 1) 100%); */
+    /* background: linear-gradient(180deg, rgb(182, 211, 255) 0%, rgb(255, 255, 255) 100%); */
+    /* background: linear-gradient(180deg, hsl(221, 100%, 56%) 0%, rgb(255, 255, 255) 100%); */
+/* hsl(138, 38%, 52%) */
+    /* filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#9FCCFA", endColorstr="#0974F1", GradientType=1 ); */
+    /* background-repeat: no-repeat; */
+    /* background-position: center; */
+    background-color: var(--ui1);
+}
+/* __________$__________ */
+
+
+
+/*
+# HEADER: BRANDING
+*/
+/* __________^__________ */
+
+    #branding {
+        width: 100%;
+    }
+
+    #branding>h1 {
+        text-align: center;
+        width: 100%;
+        color: var(--ui3);
+    }
+
+/* __________$__________ */
+
+
+
+/*
+# HEADER: NAVIGATION BAR
+*/
+/* __________^__________ */
+
+    nav {
+        width: 100%;
+        display: flex;
+        /* box-shadow: rgba(136, 165, 191, 0.48) 6px 2px 16px 0px, rgba(255, 255, 255, 0.8) -6px -2px 16px 0px; */
+    }
+
+    nav>div {
+        box-shadow: var(--navDivBoxShadow);
+        font-family: CerebriSans-Regular, -apple-system, system-ui, Roboto, sans-serif;
+        -webkit-font-smoothing: antialiased;
+        /* margin: 2em; */
+        height: 10%;
+        background: var(--ui3);
+        transition: all 300ms;
+        color: #555;
+        text-emphasis: initial;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+        overflow: hidden;
+        -webkit-user-select: none;
+        user-select: none;
+        cursor: pointer;
+    }
+
+/* __________$__________ */
+
+
+
+/*
+# HEADER: NAVIGATION MENU
+*/
+/* __________^__________ */
+
+/* __________$__________ */
+
+
+
+/*
+# HEADER: ACCOUNT
+*/
+/* __________^__________ */
+/* __________$__________ */
+
+
+
+/*
+# STYLING: MAIN
+*/
+/* __________^__________ */
+/* __________$__________ */
+
+
+
+/*
+# MAIN: SEARCH
+*/
+/* __________^__________ */
+    #search{
+        margin: 10px;
+    }
+    #search>input{
+        padding: 10px;
+        width: 100%;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+/* __________$__________ */
+
+
+
+/*
+# MAIN: SOFTWARES
+*/
+/* __________^__________ */
+
+    #softwares{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        height: 1000px;
+        overflow: auto;
+        /* background-color: rgba(30, 143, 255, 0.4); */
+        /* background-color: #  ; */
+        padding: 5px;
+        transition: display 2s;
+    }
+
+    #softwares>div{
+        width: 80vw;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        border: 1px solid var(--ui4);
+    }
+
+    #softwares>div:hover{
+        /*.0119s*/
+        /* animation-name: name;
+        animation-duration: 1s;
+        animation-delay: 0s;
+        animation-iteration-count: 1;
+        transition: animation; */
+    }
+    @keyframes name {
+        0%{rotate: 0deg;}
+        10% {rotate: +1 deg;}
+        20% {rotate: -1 deg;}
+        30% {rotate: +.5deg;}
+        40%{rotate: -.5deg;}
+        50% {rotate: +.1deg;}
+        60%{rotate: -.1deg;}
+        70% {rotate: +.05deg;}
+        80%{rotate: -.05deg;}
+        90% {rotate: +.01deg;}
+        95%{rotate: -.01deg;}
+        100%{rotate: 0deg;}
+    }
+
+    #softwares>div>div{
+        padding: 5px 2px;
+    }
+
+    #softwares>div>div:nth-child(1){
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-weight: 500;
+        /* color: #16898f; */
+        display: flex;
+    }
+
+    #softwares>div>div:nth-child(1)>img{
+        width: 25px;
+        margin: 0 5px;
+    }
+
+    #softwares>div>div:nth-child(2){
+        text-align: center;
+        padding: 10px;
+        background: hsla(221, 100%, 56%, 0.05);
+        /* color: dodgerblue; */
+        color: var(--ui4);
+        border-radius: 5px;
+        cursor: pointer;
+        margin-top: 5px;
+        margin-bottom: 5px;
+    }
+
+    #softwares>div>div:nth-child(2):hover{
+        background: var(--ui1);
+        /* background: #2CA4AB; */
+        color: var(--ui3);
+    }
+
+    #softwares>div>div:nth-child(2):active{
+        background: var(--btn-act);
+        /* background: #2CA4AB; */
+        color: var(--ui3);
+    }
+
+/* __________$__________ */
+
+
+
+/*
+# STYLING: FOOTER
+*/
+/* __________^__________ */
+footer{
+    background: var(--ui2);
+    color: var(--ui3);
+    width: 100%;
+    /* position: fixed;
+    bottom: 0; */
+}
+/* __________$__________ */
+
+
+
+/*
+# FOOTER: SERVICES
+*/
+/* __________^__________ */
+    footer>section#services>ul{
+        padding: 10px;
+        list-style-type: none;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        align-items: center;
+        /* height: 100px; */
+    }
+    footer>section#services>ul>li{
+        padding: 10px;
+        border: 1px solid var(--ui3);
+        height: 55px;
+    }
+    /* __________$__________ */
+
+
+
+/*
+# FOOTER: COPYRIGHT
+*/
+/* __________^__________ */
+    footer>section#copyright{
+        text-align: center;
+    }
+/* __________$__________ */
