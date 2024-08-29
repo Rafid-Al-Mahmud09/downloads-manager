@@ -92,5 +92,357 @@
         "comment": "",
         "webpage": "https://www.microsoft.com/en-us/software-download/windows10",
         "imgLink": ""
+    },
+    {
+        "groups": {
+            "NONE": [
+                {
+                    "name": "Farakka.jpg (660×495)",
+                    "groupName" : "NONE",
+                    "comment": "Farakka Barradge er poth",
+                    "webpage": "https://www.insightsonindia.com/wp-content/uploads/2021/08/Farakka.jpg",
+                    "imgLink": ""
+                },
+                {
+                    "name": "Russia map — Google satellite map",
+                    "groupName" : "NONE",
+                    "comment": "A map contains google map, apple map etc maps.",
+                    "webpage": "https://satellites.pro/Google/Russia_map#",
+                    "imgLink": ""
+                },
+                {
+                    "name": "457148867_1668654817311844_3524668722415981077_n.jpg (960×1514)",
+                    "groupName" : "NONE",
+                    "comment": "Shiekh mujiber jonmo ebong sothik etihash",
+                    "webpage": "https://scontent.fdac155-1.fna.fbcdn.net/v/t39.30808-6/457148867_1668654817311844_3524668722415981077_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=bd9a62&_nc_ohc=iMmdk1qqqeIQ7kNvgECfDOv&_nc_ht=scontent.fdac155-1.fna&cb_e2o_trans=q&oh=00_AYCvvDQDT_qhOXd0aksjK68HsbN82PWfUb-nfj5RU4XmsQ&oe=66D50872",
+                    "imgLink": ""
+                },
+                {
+                    "name": "457469925_807545574908143_5749212896991851794_n.jpg (640×1422)",
+                    "groupName" : "NONE",
+                    "comment": "Porar jonno something kintu ki specificly mone nai.",
+                    "webpage": "https://scontent.fdac155-1.fna.fbcdn.net/v/t39.30808-6/457469925_807545574908143_5749212896991851794_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=bd9a62&_nc_ohc=xxD8eXlX5TAQ7kNvgFuhUVN&_nc_ht=scontent.fdac155-1.fna&cb_e2o_trans=q&oh=00_AYCbsYEDuWikaWnBHAQayljZzSMZTmKqFhzNYaibjL8gTg&oe=66D5116E",
+                    "imgLink": ""
+                }
+            ],
+            "Coding 💚 (Jan-May)'s Any week": [
+                {
+                    "name": "Log in - W3Schools",
+                    "groupName" : "NONE",
+                    "comment": "Janina kiser jonno vule gesi 'histori.replace' mone hoy use hoise. To back e giye bujhar o upay nai.",
+                    "webpage": "https://profile.w3schools.com/login?redirect_url=https%3A%2F%2Fspaces.w3schools.com%2Fspace%2Frafid%2Feditor",
+                    "imgLink": ""
+                },
+                {
+                    "name": "Minor in Computer Science | Brac University",
+                    "groupName" : "NONE",
+                    "comment": "",
+                    "webpage": "https://www.bracu.ac.bd/academics/departments/computer-science-and-engineering/minor-computer-science",
+                    "imgLink": ""
+                },
+                {
+                    "name": "The Keyword | Google Product and Technology News and Stories",
+                    "groupName" : "NONE",
+                    "comment": "Have tocompose. But why it was open is forgotten",
+                    "webpage": "https://blog.google/",
+                    "imgLink": ""
+                },
+                {
+                    "name": "",
+                    "groupName" : "NONE",
+                    "comment": "Akbar akta drawing app banaisilam. Jan - May er moddhe kokhono. Setai eta.",
+                    "webpage": "http://127.0.0.1:5516/draw.html",
+                    "imgLink": ""
+                },
+                {
+                    "name": "",
+                    "groupName" : "NONE",
+                    "comment": "Akbar akta drawing app banaisilam. Jan - May er moddhe kokhono. Setai eta.",
+                    "webpage": "http://127.0.0.1:5516/index.html",
+                    "imgLink": ""
+                },
+                {
+                    "name": "HTML DOM Element classList Property",
+                    "groupName" : "NONE",
+                    "comment": "Akbar akta drawing app banaisilam. Jan - May er moddhe kokhono. Setai eta.",
+                    "webpage": "https://www.w3schools.com/jsref/prop_element_classlist.asp",
+                    "imgLink": ""
+                },
+                {
+                    "name": "W3Schools Tryit Editor",
+                    "groupName" : "NONE",
+                    "comment": "sticky nav",
+                    "webpage": "https://www.w3schools.com/jsref/tryit.asp?filename=tryjsref_prop_element_offsettop_sticky",
+                    "imgLink": ""
+                },
+                {
+                    "name": "How To Use Media Queries in JavaScript",
+                    "groupName" : "NONE",
+                    "comment": "How TO - Media Queries with JavaScript",
+                    "webpage": "https://www.w3schools.com/howto/howto_js_media_queries.asp",
+                    "imgLink": ""
+                },
+                {
+                    "name": "BotGhost | Free Discord Bot Maker",
+                    "groupName" : "NONE",
+                    "comment": "Create your own commands with no coding required. (Discord)",
+                    "webpage": "https://botghost.com/",
+                    "imgLink": ""
+                },
+                {
+                    "name": "HylexMC | Minecraft Server",
+                    "groupName" : "NONE",
+                    "comment": "To copy HylexMC Minecraft Server IP",
+                    "webpage": "https://minecraft-mp.com/server-s286330",
+                    "imgLink": ""
+                },
+                {
+                    "name": "Practical Ways to Write Better JavaScript - Stack Overflow",
+                    "groupName" : "NONE",
+                    "comment": "Practical Ways to Write Better JavaScript",
+                    "webpage": "https://stackoverflow.blog/2019/09/12/practical-ways-to-write-better-javascript/",
+                    "imgLink": ""
+                },
+                {
+                    "name": "Working with JavaScript in Visual Studio Code",
+                    "groupName" : "NONE",
+                    "comment": "Working with JavaScript with notejs using vscode",
+                    "webpage": "https://code.visualstudio.com/docs/nodejs/working-with-javascript",
+                    "imgLink": ""
+                },
+                {
+                    "name": "",
+                    "groupName" : "NONE",
+                    "comment": "Kono kaje (mon hoy copy, paste) likhsilam vule gesi ki chilo sheta. (Contenteditable)",
+                    "webpage": "data:text/html,<body contenteditable></body>",
+                    "imgLink": ""
+                },
+                {
+                    "name": "Auto Clicker - AutoFill - Google Groups    ",
+                    "groupName" : "NONE",
+                    "comment": "Auto Clicker - AutoFill ( ai chrome extension der Google Group)",
+                    "webpage": "https://groups.google.com/g/auto-clicker-autofill",
+                    "imgLink": ""
+                },
+                {
+                    "name": "",
+                    "groupName" : "NONE",
+                    "comment": "Offset Paper A4 er ma:p.",
+                    "webpage": "data:text/html,<div style='width: 20.76cm; height: 29.82cm; background-color: red;''></div>",
+                    "imgLink": ""
+                },
+                {
+                    "name": "",
+                    "groupName" : "NONE",
+                    "comment": "Offset Paper A4 er ma:p.",
+                    "webpage": "data:text/html,<div style='width: 21cm; height: 29.7cm; background-color: red;'></div>",
+                    "imgLink": ""
+                },
+                {
+                    "name": "The Complete Guide to Ethical Hacking | University of Denver Boot Camps",
+                    "groupName" : "NONE",
+                    "comment": "The Complete Guide to Ethical Hacking | What Is an Ethical Hacker? | Types of Hackers | How to Become an Ethical Hacker | Where to Practice Ethical Hacking | Where to Find Ethical Hacking Competitions",
+                    "webpage": "https://bootcamp.du.edu/blog/the-complete-guide-to-ethical-hacking/",
+                    "imgLink": ""
+                },
+                {
+                    "name": "Web Security Academy: Free Online Training from PortSwigger",
+                    "groupName" : "NONE",
+                    "comment": "Hacking Related",
+                    "webpage": "https://portswigger.net/web-security",
+                    "imgLink": ""
+                },
+                {
+                    "name": "javascript - What does the exclamation mark do before the function? - Stack Overflow",
+                    "groupName" : "NONE",
+                    "comment": "What does the exclamation mark do before the function?",
+                    "webpage": "https://stackoverflow.com/questions/3755606/what-does-the-exclamation-mark-do-before-the-function/5654929#5654929",
+                    "imgLink": ""
+                },
+                {
+                    "name": "javascript - What does the exclamation mark do before the function? - Stack Overflow",
+                    "groupName" : "NONE",
+                    "comment": "What does the exclamation mark do before the function?",
+                    "webpage": "https://stackoverflow.com/questions/3755606/what-does-the-exclamation-mark-do-before-the-function/5654929#5654929",
+                    "imgLink": ""
+                }
+            ],
+            "Physics": [
+                {
+                    "name": "class 9 physics book 2012 bangladesh - Google Search",
+                    "groupName" : "NONE",
+                    "comment": "class 9 physics book 2012 bangladesh",
+                    "webpage": "https://www.google.com/search?q=class+9+physics+book+2012+bangladesh&ved=2ahUKEwi926nhkNGEAxXnpWMGHYr2BgoQ2-cCegQIABAA&oq=class+9+physics+book+2012+bangladesh&gs_lp=EgNpbWciJGNsYXNzIDkgcGh5c2ljcyBib29rIDIwMTIgYmFuZ2xhZGVzaEj4ElC5BljJDXAAeACQAQCYAZsBoAGzA6oBAzAuM7gBA8gBAPgBAYoCC2d3cy13aXotaW1niAYB&sclient=img&ei=dMbgZb3RC-fLjuMPiu2bUA&bih=911&biw=1920&hl=en&udm=2",
+                    "imgLink": ""
+                },
+                {
+                    "name": "",
+                    "groupName" : "NONE",
+                    "comment": "downloaded phtsics book 2009-2012 er kono shaler",
+                    "webpage": "file:///D:/Downloads/APznzabaQw8CYkvYfXLBs-myZ6bagoQGqZ2IlbSYas_tlntp_JtJAhFeE7oCmosdDsqEKqCmrVWTYtPTNZzmOWRZj1WkAxnqz2DgfXtAMreXXjJc0Yc3Jog7di45fPLwYd41W_lHkFToOTTKAuG2dIilT5iJN4gXPT1dLGAX66fGoM2NnR5by89j2F89RAb-cWib9C7O_-8SWTp2e5nLCkaMWxA-6Z78mX.pdf",
+                    "imgLink": ""
+                }
+            ],
+            "Canva": [
+                {
+                    "name": "Farakka.jpg (660×495)",
+                    "groupName" : "NONE",
+                    "comment": "Farakka Barradge er poth",
+                    "webpage": "https://www.insightsonindia.com/wp-content/uploads/2021/08/Farakka.jpg",
+                    "imgLink": ""
+                },
+                {
+                    "name": "457469925_807545574908143_5749212896991851794_n.jpg (640×1422)",
+                    "groupName" : "NONE",
+                    "comment": "Porar jonno something kintu ki specificly mone nai.",
+                    "webpage": "https://scontent.fdac155-1.fna.fbcdn.net/v/t39.30808-6/457469925_807545574908143_5749212896991851794_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=bd9a62&_nc_ohc=xxD8eXlX5TAQ7kNvgFuhUVN&_nc_ht=scontent.fdac155-1.fna&cb_e2o_trans=q&oh=00_AYCbsYEDuWikaWnBHAQayljZzSMZTmKqFhzNYaibjL8gTg&oe=66D5116E",
+                    "imgLink": ""
+                }
+            ],
+            "Brac": [
+                {
+                    "name": "Farakka.jpg (660×495)",
+                    "groupName" : "NONE",
+                    "comment": "Farakka Barradge er poth",
+                    "webpage": "https://www.insightsonindia.com/wp-content/uploads/2021/08/Farakka.jpg",
+                    "imgLink": ""
+                },
+                {
+                    "name": "457469925_807545574908143_5749212896991851794_n.jpg (640×1422)",
+                    "groupName" : "NONE",
+                    "comment": "Porar jonno something kintu ki specificly mone nai.",
+                    "webpage": "https://scontent.fdac155-1.fna.fbcdn.net/v/t39.30808-6/457469925_807545574908143_5749212896991851794_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=bd9a62&_nc_ohc=xxD8eXlX5TAQ7kNvgFuhUVN&_nc_ht=scontent.fdac155-1.fna&cb_e2o_trans=q&oh=00_AYCbsYEDuWikaWnBHAQayljZzSMZTmKqFhzNYaibjL8gTg&oe=66D5116E",
+                    "imgLink": ""
+                }
+            ],
+            "MC": [
+                {
+                    "name": "Farakka.jpg (660×495)",
+                    "groupName" : "NONE",
+                    "comment": "Farakka Barradge er poth",
+                    "webpage": "https://www.insightsonindia.com/wp-content/uploads/2021/08/Farakka.jpg",
+                    "imgLink": ""
+                },
+                {
+                    "name": "457469925_807545574908143_5749212896991851794_n.jpg (640×1422)",
+                    "groupName" : "NONE",
+                    "comment": "Porar jonno something kintu ki specificly mone nai.",
+                    "webpage": "https://scontent.fdac155-1.fna.fbcdn.net/v/t39.30808-6/457469925_807545574908143_5749212896991851794_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=bd9a62&_nc_ohc=xxD8eXlX5TAQ7kNvgFuhUVN&_nc_ht=scontent.fdac155-1.fna&cb_e2o_trans=q&oh=00_AYCbsYEDuWikaWnBHAQayljZzSMZTmKqFhzNYaibjL8gTg&oe=66D5116E",
+                    "imgLink": ""
+                }
+            ],
+            "Poster": [
+                {
+                    "name": "Farakka.jpg (660×495)",
+                    "groupName" : "NONE",
+                    "comment": "Farakka Barradge er poth",
+                    "webpage": "https://www.insightsonindia.com/wp-content/uploads/2021/08/Farakka.jpg",
+                    "imgLink": ""
+                },
+                {
+                    "name": "457469925_807545574908143_5749212896991851794_n.jpg (640×1422)",
+                    "groupName" : "NONE",
+                    "comment": "Porar jonno something kintu ki specificly mone nai.",
+                    "webpage": "https://scontent.fdac155-1.fna.fbcdn.net/v/t39.30808-6/457469925_807545574908143_5749212896991851794_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=bd9a62&_nc_ohc=xxD8eXlX5TAQ7kNvgFuhUVN&_nc_ht=scontent.fdac155-1.fna&cb_e2o_trans=q&oh=00_AYCbsYEDuWikaWnBHAQayljZzSMZTmKqFhzNYaibjL8gTg&oe=66D5116E",
+                    "imgLink": ""
+                }
+            ],
+            "Quota Movement": [
+                {
+                    "name": "Farakka.jpg (660×495)",
+                    "groupName" : "NONE",
+                    "comment": "Farakka Barradge er poth",
+                    "webpage": "https://www.insightsonindia.com/wp-content/uploads/2021/08/Farakka.jpg",
+                    "imgLink": ""
+                },
+                {
+                    "name": "457469925_807545574908143_5749212896991851794_n.jpg (640×1422)",
+                    "groupName" : "NONE",
+                    "comment": "Porar jonno something kintu ki specificly mone nai.",
+                    "webpage": "https://scontent.fdac155-1.fna.fbcdn.net/v/t39.30808-6/457469925_807545574908143_5749212896991851794_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=bd9a62&_nc_ohc=xxD8eXlX5TAQ7kNvgFuhUVN&_nc_ht=scontent.fdac155-1.fna&cb_e2o_trans=q&oh=00_AYCbsYEDuWikaWnBHAQayljZzSMZTmKqFhzNYaibjL8gTg&oe=66D5116E",
+                    "imgLink": ""
+                }
+            ],
+            "Storage": [
+                {
+                    "name": "Farakka.jpg (660×495)",
+                    "groupName" : "NONE",
+                    "comment": "Farakka Barradge er poth",
+                    "webpage": "https://www.insightsonindia.com/wp-content/uploads/2021/08/Farakka.jpg",
+                    "imgLink": ""
+                },
+                {
+                    "name": "457469925_807545574908143_5749212896991851794_n.jpg (640×1422)",
+                    "groupName" : "NONE",
+                    "comment": "Porar jonno something kintu ki specificly mone nai.",
+                    "webpage": "https://scontent.fdac155-1.fna.fbcdn.net/v/t39.30808-6/457469925_807545574908143_5749212896991851794_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=bd9a62&_nc_ohc=xxD8eXlX5TAQ7kNvgFuhUVN&_nc_ht=scontent.fdac155-1.fna&cb_e2o_trans=q&oh=00_AYCbsYEDuWikaWnBHAQayljZzSMZTmKqFhzNYaibjL8gTg&oe=66D5116E",
+                    "imgLink": ""
+                }
+            ],
+            "DMan": [
+                {
+                    "name": "Farakka.jpg (660×495)",
+                    "groupName" : "NONE",
+                    "comment": "Farakka Barradge er poth",
+                    "webpage": "https://www.insightsonindia.com/wp-content/uploads/2021/08/Farakka.jpg",
+                    "imgLink": ""
+                },
+                {
+                    "name": "457469925_807545574908143_5749212896991851794_n.jpg (640×1422)",
+                    "groupName" : "NONE",
+                    "comment": "Porar jonno something kintu ki specificly mone nai.",
+                    "webpage": "https://scontent.fdac155-1.fna.fbcdn.net/v/t39.30808-6/457469925_807545574908143_5749212896991851794_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=bd9a62&_nc_ohc=xxD8eXlX5TAQ7kNvgFuhUVN&_nc_ht=scontent.fdac155-1.fna&cb_e2o_trans=q&oh=00_AYCbsYEDuWikaWnBHAQayljZzSMZTmKqFhzNYaibjL8gTg&oe=66D5116E",
+                    "imgLink": ""
+                }
+            ],
+            "Games": [
+                {
+                    "name": "Farakka.jpg (660×495)",
+                    "groupName" : "NONE",
+                    "comment": "Farakka Barradge er poth",
+                    "webpage": "https://www.insightsonindia.com/wp-content/uploads/2021/08/Farakka.jpg",
+                    "imgLink": ""
+                },
+                {
+                    "name": "457469925_807545574908143_5749212896991851794_n.jpg (640×1422)",
+                    "groupName" : "NONE",
+                    "comment": "Porar jonno something kintu ki specificly mone nai.",
+                    "webpage": "https://scontent.fdac155-1.fna.fbcdn.net/v/t39.30808-6/457469925_807545574908143_5749212896991851794_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=bd9a62&_nc_ohc=xxD8eXlX5TAQ7kNvgFuhUVN&_nc_ht=scontent.fdac155-1.fna&cb_e2o_trans=q&oh=00_AYCbsYEDuWikaWnBHAQayljZzSMZTmKqFhzNYaibjL8gTg&oe=66D5116E",
+                    "imgLink": ""
+                }
+            ],
+            "Apps": [
+                {
+                    "name": "Farakka.jpg (660×495)",
+                    "groupName" : "NONE",
+                    "comment": "Farakka Barradge er poth",
+                    "webpage": "https://www.insightsonindia.com/wp-content/uploads/2021/08/Farakka.jpg",
+                    "imgLink": ""
+                },
+                {
+                    "name": "457469925_807545574908143_5749212896991851794_n.jpg (640×1422)",
+                    "groupName" : "NONE",
+                    "comment": "Porar jonno something kintu ki specificly mone nai.",
+                    "webpage": "https://scontent.fdac155-1.fna.fbcdn.net/v/t39.30808-6/457469925_807545574908143_5749212896991851794_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=bd9a62&_nc_ohc=xxD8eXlX5TAQ7kNvgFuhUVN&_nc_ht=scontent.fdac155-1.fna&cb_e2o_trans=q&oh=00_AYCbsYEDuWikaWnBHAQayljZzSMZTmKqFhzNYaibjL8gTg&oe=66D5116E",
+                    "imgLink": ""
+                }
+            ],
+            "Rafid Al Mahmud": [
+                {
+                    "name": "Farakka.jpg (660×495)",
+                    "groupName" : "NONE",
+                    "comment": "Farakka Barradge er poth",
+                    "webpage": "https://www.insightsonindia.com/wp-content/uploads/2021/08/Farakka.jpg",
+                    "imgLink": ""
+                },
+                {
+                    "name": "457469925_807545574908143_5749212896991851794_n.jpg (640×1422)",
+                    "groupName" : "NONE",
+                    "comment": "Porar jonno something kintu ki specificly mone nai.",
+                    "webpage": "https://scontent.fdac155-1.fna.fbcdn.net/v/t39.30808-6/457469925_807545574908143_5749212896991851794_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=bd9a62&_nc_ohc=xxD8eXlX5TAQ7kNvgFuhUVN&_nc_ht=scontent.fdac155-1.fna&cb_e2o_trans=q&oh=00_AYCbsYEDuWikaWnBHAQayljZzSMZTmKqFhzNYaibjL8gTg&oe=66D5116E",
+                    "imgLink": ""
+                }
+            ]
+        }
     }
 ]
